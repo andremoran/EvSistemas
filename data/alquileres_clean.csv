@@ -1,0 +1,497 @@
+titulo,precio,provincia,num_dormitorios,num_banos,area,num_garages,ciudad,sector,lugar,rango_area,tipo_precio
+Hermoso departamento de arriendo sector iaquito,500,Pichincha,2.0,2.0,95.0,1.0,Quito,Iaquito,Quito,80-120,Medio
+Hermosa suite de arriendo sector iaquito,375,Pichincha,1.0,1.0,65.0,1.0,Quito,Quito,Quito,50-80,Economico
+Hermoso departamento de oportunidad de arriendo sector Republica del Salvador,650,Pichincha,2.0,2.0,120.0,1.0,Quito 170135,Av. Repblica De El Salvador,Quito 170135,80-120,Medio
+Hermoso departamento de arriendo de 240 metros Ponceano alto 3 dormitorios $560,560,Pichincha,3.0,3.0,240.0,2.0,Quito,Albert Einstein,Quito,180-250,Medio
+Hermoso departamento de arriendo de oportunidad en la urbanizacion El Condado,580,Pichincha,3.0,4.0,128.0,2.0,Quito,Calle C,Quito,120-180,Medio
+Hermosa suite de arriendo de oportunidad sector Quito Tenis,460,Pichincha,1.0,1.0,58.0,1.0,Quito,Quito Tenis,Quito,50-80,Medio
+Hermoso departamento en renta sector Quito Tenis,435,Pichincha,2.0,2.0,98.0,1.0,Quito 170104,Quito Tenis,Quito 170104,80-120,Medio
+Hermoso departamento de arriendo en la Urb. El condado,750,Pichincha,3.0,3.0,190.0,1.0,Quito 170134,Vgw2+Q5J,Quito 170134,180-250,Medio
+Hermosa suite amoblada de arriendo sector Quito Tenis,570,Pichincha,1.0,1.0,61.0,1.0,Quito 170104,Quito Tenis,Quito 170104,50-80,Medio
+Hermoso departamento en renta/venta sector Quito Tenis,1800,Pichincha,4.0,3.0,380.0,3.0,Quito 170104,Quito Tenis,Quito 170104,250-400,Lujo
+Hermosa suite de arriendo de oportunidad sector Quito Tenis,500,Pichincha,1.0,1.0,70.0,1.0,Quito 170104,Quito Tenis,Quito 170104,50-80,Medio
+Hermoso departamento de arriendo sector Santa Luca dos dormitorios de oportunidad,360,Pichincha,2.0,2.0,105.0,1.0,Quito,Santa Lucia,Quito,80-120,Economico
+Hermoso departamento de arriendo sector Catolica 3 dormitorios de oportunidad,560,Pichincha,3.0,3.0,120.0,1.0,Quito,Catlica,Quito,80-120,Medio
+Hermoso departamento de arriendo duplex ponceano alto,450,Pichincha,3.0,3.0,130.0,1.0,Quito,Ponceano Alto,Quito,120-180,Medio
+Hermosa casa de arriendo de oportunidad sector Santa Luca 3 dormitorios,550,Pichincha,3.0,3.0,140.0,2.0,Quito,Santa Lucia,Quito,120-180,Medio
+Hermoso departamento de arriendo de oportunidad 3 dormitorios Ponceano alto,400,Pichincha,3.0,2.0,105.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector Monteserrin 2 dormitorios,400,Pichincha,2.0,2.0,90.0,1.0,Quito,Monteserrin,Quito,80-120,Medio
+Casa en renta con patio! Casa de arriendo Pomasqui 3 dormitorios 2 plantas,400,Pichincha,3.0,3.0,100.0,2.0,Quito,Pomasqui,Quito,80-120,Medio
+Hermosa casa de arriendo sector Ponceano colegio Einstein,600,Pichincha,4.0,3.0,130.0,2.0,Quito,Ponceano Alto,Quito,120-180,Medio
+Hermoso departamento de arriendo sector Carolina Alianza Francesa,550,Pichincha,3.0,2.0,110.0,1.0,Quito,La Carolina,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector Quicentro Megamaxi,500,Pichincha,2.0,2.0,100.0,1.0,Quito,Avenida De Los Shyris,Quito,80-120,Medio
+Hermoso departamento de arriendo amoblado Gonzlez Surez,600,Pichincha,2.0,3.0,90.0,1.0,Quito,Gonzalez Suarez,Quito,80-120,Medio
+Hermoso departamento de arriendo sector El Bosque,690,Pichincha,3.0,2.0,120.0,1.0,Quito,El Bosque,Quito,80-120,Medio
+Hermosa suite amoblada de arriendo sector Quito Tennis,450,Pichincha,1.0,2.0,75.0,1.0,Quito,Quito Tenis,Quito,50-80,Medio
+"Departamento de Arriendo , Excelente Ubicacin",600,Pichincha,3.0,2.0,160.0,1.0,Quito,Av. Eloy Alfaro,Quito,120-180,Medio
+Hermoso Departamento de Arriendo con vista espectacular y ubicacin excepcional,700,Pichincha,3.0,3.0,150.0,2.0,Av. Eloy Alfaro En La Ciudad De Quito,Av. Eloy Alfaro En La Ciudad De Quito,Av. Eloy Alfaro En La Ciudad De Quito,120-180,Medio
+"Arriendo Excelente Departamento Con 3 Terrazas, Sector Granda Centeno",1200,Pichincha,4.0,4.0,350.0,2.0,Quito,Juan Jos De Villalengua,Quito,250-400,Lujo
+Se arrienda local comercial grande,600,Pichincha,3.0,2.0,90.0,1.0,Machachi,Machachi,Machachi,80-120,Medio
+Local Comercial de Renta en Excelente ubicacin,1200,Pichincha,3.0,1.0,100.0,1.0,Quito,Av. De Los Shyris,Quito,80-120,Lujo
+DEPARTAMENTO DE 3 DORMITORIOS EN PONCEANO,460,Pichincha,3.0,2.0,115.0,2.0,Quito,Mariano Paredes,Quito,80-120,Medio
+Arriendo Bonito Departamento Sector Bosmediano,550,Pichincha,3.0,2.0,92.0,2.0,Quito,Jose Bosmediano,Quito,80-120,Medio
+Rento Penthouse Sector norte de Quito,2000,Pichincha,5.0,5.0,300.0,3.0,Quito,Luxemburgo,Quito,250-400,Lujo
+Suite amoblada Av.Diego de Almagro y Juan Severino,680,Pichincha,1.0,2.0,51.0,1.0,Quito,Diego De Almagro,Quito,50-80,Medio
+SE ARRIENDA MINIDEPARTAMENTO NORTE DE QUITO,115,Pichincha,3.0,1.0,80.0,1.0,Quito,Comit Del Pueblo,Quito,50-80,Economico
+Rento amplio departamento en la Carolina,520,Pichincha,3.0,2.0,150.0,1.0,Quito,Av. Atahualpa & Iaquito,Quito,120-180,Medio
+Rento departamento en sector la Carolina,750,Pichincha,2.0,2.0,87.0,1.0,Quito,Catalina De Aldaz & Av. Portugal,Quito,80-120,Lujo
+"Rento Departamento Amoblado, Sector La Carolina",1390,Pichincha,3.0,3.0,126.0,1.0,Quito,Catalina De Aldaz & Avenida Portugal,Quito,120-180,Lujo
+Rento Oficina-Consultorio en la Marina de Jess,520,Pichincha,3.0,2.0,84.0,2.0,Quito,Calle B & San Gabriel,Quito,80-120,Medio
+RENTO DEPARTAMENTO EN EL CONJUNTO SAN MARTIN,450,Pichincha,2.0,1.0,69.0,1.0,Quito,Hernandez De Giron & Pedregal,Quito,50-80,Medio
+"En Renta Casa en Conj Terracota B, Sangolqu",350,Pichincha,2.0,2.0,90.0,1.0,Sangolqu,Venezuela,Sangolqu,80-120,Medio
+"LOCAL COMERCIAL EN ARRIENDO, AV.6 DE DIC. -QUITO",1200,Pichincha,3.0,2.0,186.0,1.0,Quito,Av. 6 De Diciembre,Quito,180-250,Lujo
+"RENTA HERMOSO DEPARTAMENTO DPLEX, USHIMANA",380,Pichincha,3.0,2.0,145.0,2.0,Quito,Ushimana,Quito,120-180,Medio
+OFICINAS EN RENTA SECTOR REPBLICA DEL SALVADOR,2800,Pichincha,3.0,3.0,216.0,3.0,Quito,Av. Republica Del Salvador & Mosc,Quito,180-250,Lujo
+EN RENTA LOCAL COMERCIAL SECTOR COLIBR SANGOLQU,800,Pichincha,2.5,1.5,101.0,2.0,Sangolqu,Avenida General Rumiahui,Sangolqu,80-120,Lujo
+"OFICINAS DE RENTA 143 M2, SECTOR IAQUITO",650,Pichincha,3.0,2.0,143.0,1.0,Quito,Av. Gaspar De Villarroel & Av. Amazonas,Quito,120-180,Medio
+EN RENTA LOCAL COMERCIAL SECTOR COLIBR SANGOLQU,800,Pichincha,2.5,1.5,100.0,1.0,Sangolqu,Del Colibr,Sangolqu,80-120,Lujo
+AMPLIAS BODEGAS DE RENTA PUSUQU SECTOR 4 ESQUINAS,380,Pichincha,3.0,2.0,90.0,1.0,Quito,Av. Manuel Crdova Galarza,Quito,80-120,Medio
+LOCAL U OFICINA DE RENTA PUSUQU SECTOR 4 ESQUINAS,180,Pichincha,3.0,1.0,15.0,1.0,Quito,Av. Manuel Crdova Galarza,Quito,0-50,Economico
+AMPLIO LOCAL COMERCIAL DE RENTA PUSUQU,350,Pichincha,3.0,2.0,32.0,1.0,Quito,Av. Manuel Crdova Galarza,Quito,0-50,Economico
+DEPARTAMENTO DE 2 DORMITORIOS SECTOR LA PRADERA,550,Pichincha,2.0,1.0,72.0,2.0,Quito,Diego De Almagro & Alpallana,Quito,50-80,Medio
+REACTIVA TU NEGOCIO- CENTRO DE LATACUNGA,120,Cotopaxi,3.0,2.0,48.0,1.0,Latacunga,Latacunga,Latacunga,0-50,Economico
+Arriendo Galpn Industrial/ Bodega. Sector Parques del Recuerdo Norte,2800,Pichincha,3.0,2.0,954.0,1.0,Quito,Juncal,Quito,400+,Lujo
+RENTO DEPARTAMENTO DE 2 DORMITORIOS,350,Pichincha,2.0,2.0,74.0,1.0,Quito,De Las Frutillas,Quito,50-80,Economico
+Arriendo local comercial dplex en La Mariscal,1600,Pichincha,3.0,2.0,75.0,1.0,Quito,Diego De Almagro & La Pinta,Quito,50-80,Lujo
+ARRIENDO SUITE AMOBLADA EN EL QUITO TENIS,750,Pichincha,1.0,1.0,125.0,1.0,Quito,Quito Tenis,Quito,120-180,Lujo
+Quieres rentar consultorio Hospital de los Valles?,350,Pichincha,3.0,2.0,43.0,1.0,Quito,Av. Interocenica,Quito,0-50,Economico
+DEPARTAMENTO TRES DORMITORIOS SECTOR EL BOSQUE,650,Pichincha,3.0,3.0,190.0,2.0,Quito,Av. Brasil & El Condor,Quito,180-250,Medio
+Buscas rentar un departamento en Mastodontes?,350,Pichincha,3.0,1.0,125.0,1.0,Quito,Av Jaime Rolds Aguilera,Quito,120-180,Economico
+Arriendo consultorio en la Clnica Pichincha,350,Pichincha,3.0,2.0,30.0,1.0,Quito,Avenida General Ignacio De Veintimilla & 9 De Octubre,Quito,0-50,Economico
+"TERRENO EN RENTA 3350 M2, SAN ANTONIO DE PICHINCHA",1200,Pichincha,3.0,2.0,3350.0,1.0,Quito,San Antonio De Pichincha,Quito,,Lujo
+EN RENTA  REA COMERCIAL VA AMAGUAA TAMBILLO,150,Pichincha,3.0,2.0,143.0,3.0,Tambillo,Tambillo,Tambillo,120-180,Medio
+"CASA DE ARRIENDO 189 M2, SECTOR DE CONOCOTO",1000,Pichincha,5.0,3.0,180.0,1.0,Quito,Polit Lasso,Quito,120-180,Lujo
+Departamento Amplio en el Norte de Quito,350,Pichincha,4.0,3.0,100.0,1.0,Quito,Jorge Piedra Y Gonzalo Gallo,Quito,80-120,Economico
+LOCAL EN RENTA SAN ISIDRO la California Alta y E16 Conjunto Mirador de Amagas,200,Pichincha,3.0,1.0,23.0,1.0,Quito,Conjunto Habitacional Mirador De Amagas,Quito,0-50,Economico
+"OFICINAS DE ARRIENDO 200 M2, SECTOR IAQUITO",1500,Pichincha,3.0,2.0,200.0,4.0,Quito,Avenida Gaspar De Villaroel & Japn,Quito,180-250,Lujo
+LOCAL COMERCIAL DE ARRIENDO 80 M2 SECTOR AMERICA,400,Pichincha,3.0,2.0,80.0,1.0,Quito,Buenos Aires & Estados Unidos,Quito,50-80,Medio
+Departamento Amplio en el Norte de Quito,380,Pichincha,3.0,2.0,120.0,1.0,Sector El Inca,Callde De Los Guabos Y De Las Cucardas,Sector El Inca,80-120,Medio
+Local en Renta Terracota,450,Pichincha,2.5,1.0,110.0,1.0,Sangolqu,Sangolqu,Sangolqu,80-120,Medio
+Hermoso departamento Remodelado centro norte,480,Pichincha,2.0,3.0,115.0,1.0,Calle Nuo De Valderrama Y Mariana De Jess,Sector Mariana De Jess,Calle Nuo De Valderrama Y Mariana De Jess,80-120,Medio
+DEPARTAMENTO EN RENTA EN LA DIEGO DE ALMAGRO,100,Pichincha,2.0,2.0,1.0,1.0,Quito 170517,Whymper & Diego De Almagro,Quito 170517,0-50,Economico
+ARRIENDO OFICINA EN SANGOLQUI VALLE DE LOS CHILLOS,230,Pichincha,2.5,1.0,53.0,1.0,Sangolqu,Sangolqu,Sangolqu,50-80,Medio
+"RENTA AMPLIO DEPARTAMENTO 3D, ORIENTE QUITEO",1500,Pichincha,3.0,4.0,196.0,2.0,Quito,Quiteo Libre & Fernando Ayarza,Quito,180-250,Lujo
+SUITE AMOBLADA DE RENTA TUMBACO,650,Pichincha,1.0,1.0,70.0,1.0,Quito,Tumbaco,Quito,50-80,Medio
+"OFICINAS DE ARRIENDO 210 M2, SECTOR COMERCIAL NORTE",500,Pichincha,3.0,2.0,210.0,2.0,Quito,Cuero Y Caicedo,Quito,180-250,Medio
+"RENTA AMPLIO LOCAL 225 m2 DUPLEX, EDIFICIO FORESTA",1800,Pichincha,1.0,2.0,253.0,3.0,Quito 170132,Alonso De Torres & Av. Edmundo Carvajal,Quito 170132,250-400,Lujo
+BODEGA DE ARRIENDO 500m2 EN EL INCA BUENOS AIRES,1350,Pichincha,3.0,2.0,500.0,4.0,Quito,San Isidro Del Inca,Quito,400+,Lujo
+HERMOSA Y CONFORTABLE CASA EN RENTA LA PAMPA,600,Pichincha,3.0,2.0,137.0,2.0,Quito,La Pampa,Quito,120-180,Medio
+EXCELENTE DEPARTAMENTO SECTOR QUICENTRO SHOPPING,600,Pichincha,4.0,3.0,240.0,2.0,Quito,Avenida 6 De Diciembre,Quito,180-250,Medio
+"EN RENTA DEPARTAMENTO, CONJUNTO DIVINO NIO",120,Pichincha,2.0,1.0,48.0,1.0,Turubamaba,Turubamaba,Turubamaba,0-50,Medio
+ARRIENDO BODAGA EN EL SECTOR DE FAJARDO,1300,Pichincha,3.0,2.0,324.0,5.0,Quito,Avenida Puruhaes,Quito,250-400,Lujo
+ARRIENDO BODEGA EN EL SECTOR DE FAJARDO,1300,Pichincha,3.0,2.0,324.0,1.0,Quito,Avenida Puruhaes,Quito,250-400,Lujo
+SUITE AMOBLADA DE ALQUILER EN LA PRADERA,550,Pichincha,1.0,1.0,72.0,1.0,Quito,La Pradera,Quito,50-80,Medio
+duplex en arriendo puente dos,400,Pichincha,4.0,5.0,300.0,1.0,Quito,Autopista General Rumiahui,Quito,250-400,Medio
+ARRIENDO MINI DEPARTAMENTO EN PUERTO FRANCISCO DE ORELLANA,150,Orellana,1.0,1.0,28.0,2.0,San Sebastin Del Coca,San Sebastin Del Coca,San Sebastin Del Coca,0-50,Medio
+Hermosa casa de arriendo sector Ponceano de oportunidad $580,580,Pichincha,3.0,3.0,180.0,2.0,Quito,Albert Einstein,Quito,120-180,Medio
+Hermoso departamento de arriendo sector Ponceano alto 3 dormitorios de oportunidad $380,380,Pichincha,3.0,3.0,110.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Casa en arriendo Los Ceibos Ibarra,480,Imbabura,4.0,3.0,140.0,1.0,Calle Ro Chimbo 7-63 Y Ro Palora,Calle Ro Chimbo 7-63 Y Ro Palora,Calle Ro Chimbo 7-63 Y Ro Palora,120-180,Medio
+Alquilo moderno departamento en Kennedy Norte Guayaquil,600,Guayas,2.0,2.0,68.0,1.0,Guayaquil,Kennedy Norte,Guayaquil,50-80,Medio
+Se Renta Excelente Local Comercial Por Estrenar Sector San Gabriel,520,Pichincha,3.0,1.0,57.0,1.0,Quito,Hernandez De Giron,Quito,50-80,Medio
+Arriendo Departamento Cerca Universidad Central,300,Pichincha,3.0,1.0,90.0,1.0,Quito,Humberto Albornoz,Quito,80-120,Economico
+EN RENTA OFICINA  CONSULTORIO MDICO  LA PRADERA,265,Pichincha,3.0,1.0,34.0,1.0,Quito,Alemania & Av. Eloy Alfaro,Quito,0-50,Economico
+EN RENTA DEPARTAMENTO AMOBLADO,350,Pichincha,2.0,1.0,50.0,1.0,Quito,Antiguo Aeropuerto,Quito,0-50,Economico
+DEPARTAMENTO EN SAIBA,500,Guayas,3.0,3.0,120.0,1.0,Guayaquil,Ciudadela Saiba,Guayaquil,80-120,Medio
+RENTA DEPARTAMENTO DE 2 DORMITORIOS URB. PUERTO AZUL VIA LA COSTA GUAYAQUIL ECUADOR,600,Guayas,2.0,4.0,68.0,1.0,Guayaquil,Urbanizacin Puerto Azul,Guayaquil,50-80,Medio
+Hermosa suite de arriendo con Lnea blanca de oportunidad sector el bosque $480 incluido Alicuota,480,Pichincha,1.0,2.0,70.0,1.0,Quito,El Bosque,Quito,50-80,Medio
+Hermoso departamento de arriendo de oportunidad sector Hospital Metropolitano 3 dormitorios precio $450,450,Pichincha,3.0,2.0,97.0,1.0,Quito,Avenida Mariana De Jess,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector Pomasqui 2 dormitorios,280,Pichincha,2.0,1.0,80.0,1.0,Quito,Pomasqui,Quito,50-80,Economico
+SE RENTA LOCAL Y OFICINA EN BELLAVISTA DE CALDERON,690,Pichincha,3.0,2.0,140.0,1.0,Quito,Calderon,Quito,120-180,Medio
+LOCAL GRANDE E IDEAL PARA FRANQUICIA o RESTAURANTE,3500,Pichincha,3.0,3.0,410.0,1.0,Quito,Juan Len Mera,Quito,400+,Lujo
+DEPARTAMENTO EN SAIBA,500,Guayas,3.0,2.0,150.0,1.0,Guayaquil,Ciudadela Saiba,Guayaquil,120-180,Medio
+SE ARRIENDA GALPON 390 M2 EN PONCEANO,1650,Pichincha,3.0,1.0,390.0,2.0,Ponceano,Ponceano,Ponceano,250-400,Lujo
+SE RENTA SUITE 95m2 SECTOR BELLAVISTA,580,Pichincha,1.0,2.0,95.0,1.0,Quito,Bellavista,Quito,80-120,Medio
+OFICINA EN RENTA A POCOS METROS DEL SAN LUIS,350,Pichincha,1.0,1.0,50.0,1.0,Quito,Av San Luis,Quito,0-50,Economico
+Departamento 3 dormitorios en Arriendo,350,Pichincha,3.0,2.0,140.0,1.0,Quito,Nez De Bonilla 286-340,Quito,120-180,Economico
+DEPARTAMENTO EN ARRIENDO SAIBA,500,Guayas,3.0,2.0,120.0,1.0,Guayaquil,Ciudadela Saiba,Guayaquil,80-120,Medio
+ARRIENDO O VENDO 1600 m2 GALPON COMERCIAL,3500,Pichincha,3.0,6.0,1600.0,22.0,Quito,Bellavista Y Las Lagunas,Quito,,Lujo
+"2 DORMITORIOS, PLANTA BAJA",200,Pichincha,2.0,1.0,100.0,1.0,Chontamarca,Chontamarca,Chontamarca,80-120,Medio
+Departamento amoblado de Renta en la Corua,1100,Pichincha,3.0,2.0,100.0,1.0,Quito,Avenida La Corua & Valladolid,Quito,80-120,Lujo
+Oficina en renta Sector la Carolina,700,Pichincha,1.0,1.0,58.0,1.0,Quito,Avenida Republica Del Salvador,Quito,50-80,Medio
+OFICINA EN RENTA SECTOR LA COLN,220,Pichincha,1.0,1.0,60.0,1.0,Quito,Av. 10 De Agosto & Javier Ascazubi,Quito,50-80,Economico
+OFICINA IDEAL REACTIVATE- LA COLN,300,Pichincha,1.0,1.0,80.0,1.0,Quito,Av. 10 De Agosto & Javier Ascazubi,Quito,50-80,Economico
+BONITO LOCAL COMERCIAL DE ALQUILER CAPELO,120,Pichincha,3.0,1.0,30.0,2.0,Quito,Capelo,Quito,0-50,Economico
+Departamento 2D Renta sector La Kennedy,220,Pichincha,2.0,1.0,45.0,1.0,Quito,La Kennedy,Quito,0-50,Economico
+HERMOSO LOFT DE ARRIENDO EN LA LEONIDAS PLAZA,500,Pichincha,1.0,1.0,17.0,1.0,Quito,Leonidas Plaza Gutierrez,Quito,0-50,Medio
+EN RENTA LOCAL COMERCIAL SECTOR SAN RAFAEL,250,Pichincha,4.0,2.0,45.0,3.0,San Rafael,San Rafael,San Rafael,0-50,Economico
+DE ALQUILER BODEGA EN EL COLIBR,1000,Pichincha,2.5,1.5,200.0,1.0,Sangolqu,Sangolqui,Sangolqu,180-250,Lujo
+Hostel en Renta Sector el Chaupi,700,Pichincha,8.0,5.0,783.0,15.0,El Chaupi,El Chaupi,El Chaupi,400+,Medio
+Departamento con Terraza Privada. Sector Mall del Sur .,300,Guayas,2.0,1.0,70.0,1.0,Ciudadela Moran Valverde,Ciudadela Moran Valverde,Ciudadela Moran Valverde,50-80,Medio
+SE RENTA EDIFICIO SECTOR ESTRATEGICO EN LATACUNGA,3700,Cotopaxi,3.0,2.0,100.0,1.0,Latacunga,Latacunga,Latacunga,80-120,Lujo
+SUITE AMOBLADA EN LA DIEGO DE ALMAGRO Y ALPALLANA,400,Pichincha,1.0,1.0,87.0,1.0,Quito,Diego De Almagro & Alpallana,Quito,80-120,Medio
+VENDO TERRENOS EN PUEMBO,125,Pichincha,3.0,2.0,100.0,1.0,Puembo,Puembo,Puembo,80-120,Economico
+Bodega en Renta Parque industrial Sangolqu,2500,Pichincha,2.5,1.5,640.0,1.0,Sangolqu,Sangolqui,Sangolqu,400+,Lujo
+LOCAL U OFICINA EN EL EDIFICIO WORL TRADE CENTER,590,Pichincha,3.0,2.0,75.0,1.0,Quito,Avenue 12 De Octubre,Quito,50-80,Medio
+DEPARTAMENTO DE ARRIENDO GONZALEZ SUAREZ,750,Pichincha,4.0,4.0,200.0,1.0,Quito,Gonzalez Suarez,Quito,180-250,Lujo
+DEPARTAMENTO DE ARRIENDO EN COTOCOLLAO,300,Pichincha,3.0,2.0,120.0,1.0,Quito,Cotocollao,Quito,80-120,Economico
+SUITE DE ARRIENDO AMOBLADA,450,Pichincha,1.0,1.0,65.0,1.0,Quito,Avenida Republica Del Salvador,Quito,50-80,Medio
+Arriendo departamento en el centro de Babahoyo,220,Los Rios,2.0,1.0,87.0,1.0,Babahoyo,Calle 18 De Mayo,Babahoyo,80-120,Economico
+Departamento a estrenar en el centro de Babahoyo,240,Los Rios,2.0,1.0,90.0,1.0,Babahoyo,Calle 18 De Mayo,Babahoyo,80-120,Medio
+ALQUILER DEPARTAMENTO CENTRO BABAHOYO,240,Los Rios,2.0,1.0,90.0,1.0,Babahoyo,Calle 18 De Mayo,Babahoyo,80-120,Medio
+ARRIENDO CASA EN CUMBAYA COLEGIO MENOR,2600,Pichincha,4.0,4.0,470.0,6.0,Quito,Cumbay,Quito,400+,Lujo
+HERMOSA SUITE CON BALCN EN LA 12 DE OCTUBRE,550,Pichincha,1.0,1.0,87.0,1.0,Quito,Av. 12 De Octubre,Quito,80-120,Medio
+HERMOSA SUITE FULL AMOBLADA EN LA GONZALEZ SUAREZ,500,Pichincha,1.0,1.0,110.0,1.0,Quito,Gonzalez Suarez,Quito,80-120,Medio
+PISO EN RENTA PARA PEQUEA INDUSTRIA CHILLOGALLO,400,Pichincha,3.0,2.0,215.0,1.0,Quito,Chillogallo,Quito,180-250,Medio
+"Departamento Dplex de 3 dormitorios en conjunto residencial Sironi, Cumbay",950,Pichincha,3.0,3.0,222.0,2.0,Quito,Cumbay,Quito,180-250,Lujo
+HERMOSA SUITE FULL AMOBLADA EN LA FLORESTA,430,Pichincha,1.0,1.0,15.0,1.0,Quito,La Floresta,Quito,0-50,Medio
+"ACOJEDOR DEPARTAMENTO AMOBLADO EN ALQUILER KENNEDY AV. SAN JORGE, 4 DORMITORIOS",610,Guayas,4.0,4.0,205.0,1.0,Guayaquil,Kennedy,Guayaquil,180-250,Lujo
+ARRIENDO AMAZONAS CON VISTA AL PARQUE DE LA CAROLINA,500,Pichincha,3.0,3.0,140.0,1.0,Quito,Av. Ro Amazonas,Quito,120-180,Medio
+Se Renta Excelente Oficina en el en Edificio Corporativo ZYRA,800,Pichincha,1.0,1.0,91.0,1.0,Quito,Avenida Portugal,Quito,80-120,Lujo
+"Villa En El Sur De Guayaquil, Ciudadela Del IESS, Atrs Del Hospital Teodoro Maldonado.",350,Guayas,3.0,1.0,91.0,1.0,Guayaquil,Ciudadela Del Periodista,Guayaquil,80-120,Economico
+En Renta oficina en el edificio World Trade Center,750,Pichincha,3.0,2.0,65.0,1.0,Quito,Avenue 12 De Octubre,Quito,50-80,Lujo
+DEPARTAMENTO EN ARRIENDO CIUDADELA LA SAIBA,550,Guayas,3.0,2.0,120.0,1.0,Guayaquil,Ciudadela Saiba,Guayaquil,80-120,Medio
+DEPARTAMENTO DE ARRIENDO SECTOR GRANDA CENTENO,500,Pichincha,2.0,1.0,142.0,2.0,Quito,Granda Centeno,Quito,120-180,Medio
+RENTO DEPARTAMENTO GRANDE SECTOR LA GASCA,330,Pichincha,3.0,2.0,116.0,1.0,Quito,La Gasca,Quito,80-120,Economico
+En Renta Lujosa Suite ubicada en el hotel MARRIOTT,1700,Pichincha,2.0,2.0,92.0,1.0,Quito,Avenida Francisco De Orellana,Quito,80-120,Lujo
+OPORTUNIDAD NICA | LOTE PLAYERO A 5 MINUTOS DE PUERTO CAYO,6500,Manab,3.0,2.0,200.0,1.0,Manta,Manta,Manta,180-250,Medio
+Hermoso departamento de arriendo con lnea blanca sector el bosque $ 470 incluido alcuota,470,Pichincha,2.0,2.0,90.0,1.0,Quito,El Bosque,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector La prensa Av. el Maestro $320 incluido Alicuota,320,Pichincha,2.0,2.0,110.0,1.0,Quito,De La Prensa Y Del Maestro,Quito,80-120,Economico
+Hermosa casa de arriendo de oportunidad $ 500 dlares sector Santa Luca,500,Pichincha,3.0,3.0,150.0,1.0,Quito,Santa Luca,Quito,120-180,Medio
+ARRIENDO OFICINAS CON BODEGA SECTOR CALDERON,600,Pichincha,3.0,1.0,170.0,2.0,Quito,Caldern,Quito,120-180,Medio
+Hermosa casa en conjunto Cordillera,500,Pichincha,3.0,3.0,180.0,2.0,Martn Ochoa Y Av Simn Bolvar (Occidental),Martn Ochoa Y Av Simn Bolvar (Occidental),Martn Ochoa Y Av Simn Bolvar (Occidental),120-180,Medio
+OFICINA DE ARRIENDO SECTOR LA MARISCAL,350,Pichincha,3.0,2.0,48.0,1.0,Quito,La Mariscal,Quito,0-50,Economico
+"Villa en el Sur de Guayaquil, Ciudadela Del IESS, atrs del Hospital Teodoro Maldonado.",400,Guayas,3.0,1.0,91.0,1.0,Guayaquil 090314,Av Olmedo,Guayaquil 090314,80-120,Medio
+Se Arriendan Departamentos- Ciudadela Las Orqudeas,200,Guayas,2.0,2.0,80.0,1.0,Guayaquil,Las Orqudeas Este,Guayaquil,50-80,Economico
+Casa Independiente en Renta Sector Santa Ines Cumbay,2600,Pichincha,3.0,3.0,300.0,4.0,Quito,Santa Ins,Quito,250-400,Lujo
+EN RENTA TERRENO COMERCIAL CERCA DE LA AV. ILAL,2500,Pichincha,3.0,2.0,100.0,1.0,Quito,Av. Ilal,Quito,80-120,Lujo
+ESPACIOSO DEPARTAMENTO EN RENTA SECTOR BILOXI,280,Pichincha,3.0,2.0,117.0,1.0,Quito,Biloxi,Quito,80-120,Economico
+"RENTA DE SUITE SEMIAMOBLADA,CUMBAYA scala shopping",550,Pichincha,1.0,1.0,68.0,1.0,Quito,Cumbay,Quito,50-80,Medio
+RENTO LOCAL COMERCIAL CON BODEGA EN CHILLOGALLO,300,Pichincha,3.0,2.0,37.0,1.0,Quito,Chillogallo,Quito,0-50,Economico
+EN RENTA CASA AMOBLADA EN EL CENTRO HISTORICO,1100,Pichincha,4.0,4.0,700.0,1.0,Quito,Centro Histrico,Quito,400+,Lujo
+"Arriendo Suite Amoblada, La Mariscal",450,Pichincha,1.0,2.0,60.0,1.0,Quito,La Mariscal,Quito,50-80,Medio
+Arriendo departamento sector cultural La Floresta,425,Pichincha,2.0,2.0,90.0,1.0,Quito,Avenida Ladrn De Guevara & Barcelona,Quito,80-120,Medio
+EN RENTA LOCAL COMERCIAL AV. PRINCIPAL CAPELO,300,Pichincha,3.0,2.0,70.0,1.0,Quito,Capelo,Quito,50-80,Economico
+EN RENTA OFICINA SECTOR DEL COLIBR-SANGOLQU,180,Pichincha,2.5,1.5,27.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,0-50,Economico
+EN RENTA OFICINA SECTOR DEL COLIBR-SANGOLQU,160,Pichincha,2.5,1.5,24.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,0-50,Economico
+Suite sector universidad Catlica,350,Pichincha,1.0,1.0,70.0,1.0,Quito 170143,Toledo & Madrid,Quito 170143,50-80,Economico
+EXCELENTE UBICACION LOCAL COMERCIAL RENTA (118M2  RUMIPAMBA),850,Pichincha,3.0,2.0,118.0,2.0,Quito,Veracruz & Avenida De La Repblica,Quito,80-120,Lujo
+CASA COMERCIAL EXCELENTE UBICACION RENTA (200M2  RUMIPAMBA),1500,Pichincha,5.0,2.0,200.0,3.0,Quito,Veracruz & Avenida De La Repblica,Quito,180-250,Lujo
+BODEGA COMERCIAL UBICACION ESTRATEGICA DE RENTA (87M2  RUMIPAMBA),450,Pichincha,1.0,1.0,87.0,1.0,Quito,Veracruz & Avenida De La Repblica,Quito,80-120,Medio
+LOCAL EN RENTA A ESTRENAR DE 26M2 (EDF. AMELIA) MASTODONTES,200,Pichincha,1.0,1.0,26.0,1.0,Quito,Mastodontes,Quito,0-50,Economico
+"Arriendo Departamento 3 Dormitorios, La Mariscal",697,Pichincha,3.0,2.0,110.0,2.0,Quito,La Mariscal,Quito,80-120,Medio
+CONFORTABLE DEP. EXCELENTE UBICACION RENTA (75 MT2) RUMIPAMBA,300,Pichincha,2.0,2.0,75.0,1.0,Quito,Antonio De Ulloa & Avenida Atahualpa,Quito,50-80,Economico
+DEPARTAMENTO EN RENTA,450,Pichincha,2.0,2.0,95.0,1.0,Quito,Nuez De Vela & Juan Jos De Villalengua,Quito,80-120,Medio
+Casa en Renta 2 pisos  Quito,350,Pichincha,3.0,2.0,90.0,1.0,Quito,Rio Peripa,Quito,80-120,Economico
+SE VENDEN EXCELENTES LOTES DE TERRENO COMERCIALES EN LA VIA EL CAMBIO CERCA AL PARQUE EN LA VIA PRINCIPAL,125,El Oro,10.0,10.0,5970.0,20.0,Machala,El Cambio,Machala,,Medio
+"Arriendo Suite Amoblada, Av. America, Rumipamba",340,Pichincha,1.0,1.0,50.0,1.0,Quito,Av. Amrica,Quito,0-50,Economico
+SE VENDEN DOS LOTES DE TERRENOS COMERCIALES EN LA PARROQUIA EL CAMBIO FRENTE A LA VIA PRINCIPAL,125,El Oro,10.0,10.0,5970.0,10.0,Machala,Parroquia El Cambio,Machala,,Medio
+Renta de Suite Semi  Amoblada Sector La Carolina,550,Pichincha,1.0,1.0,70.0,1.0,Quito,La Carolina,Quito,50-80,Medio
+Renta de Consultorio Sector Eloy Alfaro y Alemania,500,Pichincha,3.0,1.0,45.0,1.0,Quito,Avenida Eloy Alfaro,Quito,0-50,Medio
+Renta Oficina Sector La Carolina,750,Pichincha,3.0,1.0,80.0,1.0,Quito,Avenida Republica Del Salvador & Avenida De Los Shyris,Quito,50-80,Lujo
+Departamento en Venta/renta Sector Real Audiencia,517,Pichincha,2.0,2.0,96.0,1.0,Quito,Real Audiencia,Quito,80-120,Medio
+LINDA OFICINA EN LA AV. COLON Y AMAZONAS ARRIENDO,350,Pichincha,3.0,2.0,51.0,1.0,Quito,Av. Cristbal Coln & Avenida Ro Amazonas,Quito,50-80,Economico
+"Arriendo Departamento 3 Dormitorios + Estudio, La Mariscal",550,Pichincha,3.0,3.0,140.0,1.0,Quito,La Mariscal,Quito,120-180,Medio
+EN RENTA OFICINA EN EL CENTRO DE SANGOLQU OFICINA 4,130,Pichincha,2.5,1.5,28.0,1.0,Sangolqu,Sangolqui,Sangolqu,0-50,Economico
+EN RENTA OFICINA EN EL CENTRO DE SANGOLQU OFICINA 3,170,Pichincha,2.5,1.5,52.0,1.0,Sangolqu,Sangolqui,Sangolqu,50-80,Economico
+EN RENTA OFICINA EN EL CENTRO DE SANGOLQU OFICINA 2,120,Pichincha,2.5,1.5,23.0,1.0,Sangolqu,Sangolqui,Sangolqu,0-50,Economico
+EN RENTA OFICINA EN EL CENTRO DE SANGOLQU OFICINA 1,140,Pichincha,2.5,1.5,30.0,1.0,Sangolqu,Sangolqui,Sangolqu,0-50,Economico
+EN RENTA OFICINA EN EL CENTRO DE SANGOLQU,150,Pichincha,2.5,1.5,38.0,1.0,Sangolqu,Sangolqui,Sangolqu,0-50,Economico
+TERRENO EN VENTA COLINAS DE BRICENO TERRENO 1,6500,Manab,3.0,2.0,100.0,1.0,San Vicente,San Vicente,San Vicente,80-120,Medio
+EN RENTA NAVE INDUSTRIAL  VA SANGOLQU AMAGUAA,3000,Pichincha,3.0,2.0,600.0,1.0,Quito,Amaguaa,Quito,400+,Lujo
+Local de Arriendo ubicado en el Colibri,600,Pichincha,2.5,1.5,100.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,80-120,Medio
+SE RENTA DE SUITE EN LA PRIMAVERA,450,Pichincha,1.0,1.0,45.0,1.0,Quito,La Primavera,Quito,0-50,Medio
+LOCAL COMERCIAL DE RENTA GUAMAN SUR DE QUITO,3900,Pichincha,3.0,2.0,286.0,12.0,Quito,Guaman,Quito,250-400,Lujo
+ARRIENDO AMPLIA CASA EN EL SECTOR DE CONOCOTO,940,Pichincha,3.0,4.0,840.0,1.0,Quito,Conocoto,Quito,400+,Lujo
+RENTA AMPLIO DEPARTAMENTO SECTOR ELOY ALFARO,550,Pichincha,3.0,2.0,132.0,1.0,Quito,Av. Eloy Alfaro,Quito,120-180,Medio
+LOCAL DE ARRIENDO TORRES SANTA FE 6 DE DICIEMBRE,750,Pichincha,3.0,2.0,135.0,1.0,Quito,Av. 6 De Diciembre,Quito,120-180,Lujo
+TERRENO EN BALCONES DE TAPAILA  ESMERALDAS,7000,Esmeraldas,3.0,2.0,100.0,1.0,Troncal Del Pacfico,Balcones De Tapaila,Troncal Del Pacfico,80-120,Medio
+"RENTO 2DO PISO DE EDIF 3 AMBIENTES, SANGOLQUI",1200,Pichincha,2.5,1.5,395.0,1.0,Sangolqu,Sangolqui,Sangolqu,250-400,Lujo
+Arriendo Departamento 3 dormitorios,350,Pichincha,3.0,2.0,120.0,1.0,Quito,Asuncin & Canada,Quito,80-120,Economico
+CASA EN EL SECTOR DE LA ARMENIA LA RIBERA,1800,Pichincha,3.0,3.0,485.0,5.0,Quito,La Armenia,Quito,400+,Lujo
+DEPARTAMENTO EN RENTA SEMI AMOBLADO QUITO TENNIS,700,Pichincha,2.0,1.0,85.0,1.0,Quito,Quito Tenis,Quito,80-120,Medio
+EN RENTA DEPARTAMENTO DE 3 HAB. CENTRO HISTORICO,280,Pichincha,3.0,1.0,95.0,1.0,Quito,Centro Histrico,Quito,80-120,Economico
+"ARRIENDO OFICINA, BODEGA, DEPARTAMENTO",3000,Pichincha,5.0,2.0,1500.0,1.0,Quito,La Gasca,Quito,,Lujo
+"Quito Tenis, Exclusivo y bello depto de 90 M2",500,Pichincha,2.0,2.0,90.0,2.0,Quito,Los Cabildos 112,Quito,80-120,Medio
+Hermoso departamento de arriendo sector Ponceano alto 3 dormitorios $450 incluido Alicuota,450,Pichincha,3.0,2.0,120.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Hermosa casa de arriendo de oportunidad sector La Pampa $600,600,Pichincha,3.0,3.0,140.0,2.0,Quito,La Pampa,Quito,120-180,Medio
+RENTO OFICINA CON O SIN MENAJE EL COLIBRI SANGOLQU,900,Pichincha,2.5,1.5,98.0,1.0,Sangolqu,Sangolqui,Sangolqu,80-120,Lujo
+RENTO OFICINAS EN PLAZA COLIBRI SANGOLQUI 88M2,690,Pichincha,2.5,1.5,88.0,1.0,Sangolqu,Sangolqui,Sangolqu,80-120,Medio
+RENTO OFICINAS EN PLAZA COLIBRI SANGOLQUI 86M2,675,Pichincha,2.5,1.5,86.0,1.0,Sangolqu,Sangolqui,Sangolqu,80-120,Medio
+Alquila la oficina para tu negocio en Yaruqu,450,Pichincha,3.0,2.0,180.0,1.0,Quito,Yaruqu,Quito,120-180,Medio
+RENTO OFICINAS EN PLAZA COLIBRI SECTOR SANGOLQUI,705,Pichincha,2.5,1.5,90.0,1.0,Sangolqu,Sangolqui,Sangolqu,80-120,Medio
+Departamento en Renta en el Sector de La Kennedy,280,Pichincha,2.0,1.0,70.0,1.0,Quito,La Kennedy,Quito,50-80,Economico
+Departamento de Arriendo en Ponceano,250,Pichincha,2.0,1.0,65.0,1.0,Calles Orianga N63-159 Y De Los Cedros.,Calles Orianga N63-159 Y De Los Cedros.,Calles Orianga N63-159 Y De Los Cedros.,50-80,Medio
+RENTA EXCLUSIVO DEPARTAMENTO EDF. B QUITO TENNIS,900,Pichincha,3.0,2.0,120.0,2.0,Quito,Quito Tenis,Quito,80-120,Lujo
+EN RENTA DEPARTAMENTO SECTOR 6 DE DICIEMBRE,550,Pichincha,3.0,2.0,90.0,1.0,Quito,Av. 6 De Diciembre,Quito,80-120,Medio
+RENTA CASA  150m2  EL CONDADO,450,Pichincha,3.0,2.0,150.0,2.0,Quito,Rio Pucuno & Rio Bigal,Quito,120-180,Medio
+RENTA SUITE  55m2  EL INCA,350,Pichincha,1.0,1.0,55.0,1.0,Quito,Avenida De Las Palmeras & De Los Madroos,Quito,50-80,Economico
+RENTA DEPARTAMENTO  120m2 -LA CAROLINA,690,Pichincha,3.0,1.0,120.0,1.0,Quito 170102,El Comercio & El Tiempo,Quito 170102,80-120,Medio
+EN RENTA LOCAL DE 6M2 SECTOR COLIBR LOCAL 5,190,Pichincha,2.5,1.5,6.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,0-50,Medio
+RENTO LOCALES COMERCIALES UBICADOS SECTOR COLIBR LOCAL 4,420,Pichincha,2.5,1.5,12.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,0-50,Medio
+RENTO LOCAL COMERCIAL PLANTA BAJA SECTOR COLIBR LOCAL 3,1090,Pichincha,2.5,1.5,162.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,120-180,Lujo
+RENTO LOCALES COMERCIALES UBICADOS SECTOR COLIBR LOCAL 2,665,Pichincha,2.5,1.5,108.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,80-120,Medio
+RENTO LOCALES COMERCIALES UBICADOS SECTOR COLIBR LOCAL 1,655,Pichincha,2.5,1.5,106.0,1.0,Sangolqu,Avenida General Rumiahui,Sangolqu,80-120,Medio
+RENTO LOCALES COMERCIALES UBICADOS SECTOR COLIBR,585,Pichincha,2.5,1.5,95.0,35.0,Sangolqu,Avenida General Rumiahui,Sangolqu,80-120,Medio
+"ARRIENDO DEPARTAMENTO CON EXCELENTE UBICACIN, 2 HABITACIONES, AMOBLADO O SIN AMOBLAR, $5OO",500,Pichincha,2.0,1.0,70.0,4.0,Quito 170157,Juan Montalvo N2-168 Y,Quito 170157,50-80,Economico
+ARRIENDO DEPARTAMENTO CON EXCELENTE UBICACIN.,650,Pichincha,3.0,2.0,180.0,2.0,Cumbaya,Cumbaya,Cumbaya,120-180,Medio
+SE RENTA DEPARTAMENTO EN CONJUNTO EN CONOCOTO,370,Pichincha,3.0,2.0,100.0,1.0,Quito,Conocoto,Quito,80-120,Economico
+Departamento en Renta sector La Carolina,350,Pichincha,3.0,1.0,100.0,1.0,Quito,La Carolina,Quito,80-120,Economico
+DEPARTAMENTO EN RENTA SECTOR KENNEDY,415,Pichincha,3.0,2.0,103.0,2.0,Quito,La Kennedy,Quito,80-120,Medio
+En Arriendo bonita Oficina Sector La Pradera,700,Pichincha,3.0,2.0,94.0,1.0,Quito,La Pradera,Quito,80-120,Medio
+Habitacin en Renta en el Sector la Carolina hab. 2,120,Pichincha,1.0,1.0,15.0,1.0,Quito,La Carolina,Quito,0-50,Economico
+RENTA OFICINA- 60m2  CENTRO NORTE DE QUITO,470,Pichincha,3.0,1.0,60.0,1.0,Quito,Batan Bajo,Quito,50-80,Medio
+LOCAL DE ARRIENDO EN LAS CASAS QUITO,490,Pichincha,3.0,2.0,70.0,1.0,Quito,Las Casas,Quito,50-80,Medio
+DEPARTAMENTO EN ALQUILER SECTOR PINAR BAJO,550,Pichincha,3.0,3.0,150.0,1.0,Quito,Teniente Homero Salas,Quito,120-180,Medio
+Departamento en Renta sector La Carolina,350,Pichincha,3.0,1.0,90.0,1.0,Quito,La Carolina,Quito,80-120,Economico
+"SUITE AMOBLADA DE ARRIENDO , SECTOR LA CAROLINA",750,Pichincha,1.0,2.0,72.0,1.0,Quito,Avenida De Los Shyris & Avenida Naciones Unidas,Quito,50-80,Lujo
+EN RENTA-LOCAL COMERCIAL SECTOR VERSALLES,200,Pichincha,3.0,2.0,30.0,1.0,Quito,Versalles,Quito,0-50,Economico
+"Arriendo Departamento 3 Dormitorios + Estudio, Maosca",450,Pichincha,3.0,3.0,130.0,1.0,Quito,Maosca & Avenida Occidental,Quito,120-180,Medio
+"Arriendo Departamento 2 Dormitorios, Maosca",350,Pichincha,2.0,2.0,105.0,1.0,Quito,Maosca & Avenida Occidental,Quito,80-120,Economico
+ARRIENDO OFICINA-142m2-REPBLICA DEL SALVADOR,900,Pichincha,2.0,2.0,142.0,2.0,Quito 170102,Av. Repblica De El Salvador,Quito 170102,120-180,Lujo
+Departamento sector Repblica del Salvador,700,Pichincha,3.0,3.0,178.0,2.0,Finlandia N36-83 Y Suecia,Finlandia N36-83 Y Suecia,Finlandia N36-83 Y Suecia,120-180,Medio
+ARRIENDO BODEGA Y OFICINAS. ESQUIENERO. (BELLAVISTA DE CALDERN),900,Pichincha,4.0,3.0,646.0,1.0,Quito,Bellavista,Quito,400+,Lujo
+ARRIENDO OFICINA-142m2-REPBLICA DEL SALVADOR,900,Pichincha,3.0,2.0,142.0,2.0,Quito,Av. Repblica De El Salvador,Quito,120-180,Lujo
+RENTA DEPARTAMENTO  115m3  SAN RAFAEL,383,Pichincha,2.0,3.0,115.0,1.0,Quito,Av. Gral. Rumiahui & Isla Floreana,Quito,80-120,Medio
+RENTA MODERNA OFICINA  96m2  LA CORUA,480,Pichincha,3.0,2.0,96.0,1.0,Quito,Av. La Corua & San Ignacio,Quito,80-120,Medio
+Hermoso departamento embajada Americana (colegio SEK) edificio inteligente $500,500,Pichincha,3.0,2.0,100.0,1.0,Quito 170124,Av. Eloy Alfaro E12-170 Y,Quito 170124,80-120,Economico
+Hermoso departamento Edificio inteligente sector Ponceano Alto,400,Pichincha,2.0,2.0,100.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Hermosa casa 3 platas sector embajada Amricana,480,Pichincha,3.0,2.0,100.0,2.0,Quito,Embajada Americana,Quito,80-120,Medio
+Alquiler de Departamento 2do Piso Alto en Garzota Norte de Guayaquil,400,Guayas,2.0,1.0,68.0,1.0,Guayaquil,Garzota Ii,Guayaquil,50-80,Economico
+AMPLIA HERMOSA CASA ARRIENDO MITAD DEL MUNDO QUITO,350,Pichincha,5.0,4.0,170.0,1.0,Quito,Padre Rumi E1-10,Quito,120-180,Economico
+"ARIENDO DEPARTAMENTO DUPLEX CONJUNTO SOL DEL SUR, QUITUMBE",220,Pichincha,3.0,2.0,100.0,1.0,Quito,Av. Cndor An,Quito,80-120,Economico
+"Arriendo Consultorio Medico, La Mariscal",280,Pichincha,3.0,1.0,43.0,1.0,Quito,La Mariscal,Quito,0-50,Economico
+"Arriendo Departamento 2 Dormitorios, Casablanca",140,Esmeraldas,2.0,2.0,80.0,1.0,Same,Casablanca,Same,50-80,Medio
+Suite en renta sector Granda Centeno,450,Pichincha,1.0,1.0,68.0,1.0,Quito,Granda Centeno,Quito,50-80,Medio
+"Arriendo Departamento 4 Dormitorios + Estudio, Gonzalez Suarez",1000,Pichincha,4.0,6.0,285.0,2.0,Quito,Gonzalez Suarez,Quito,250-400,Lujo
+Hermoso departamento con Terraza propia de arriendo sector Ponceano Alto,400,Pichincha,3.0,2.0,140.0,1.0,Ponceano,Ponceano,Ponceano,120-180,Economico
+Linda Casa de oportunidad $380 sector Ponceano alto,380,Pichincha,3.0,2.0,100.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+"Hermosa Casa de Arriendo en Mirasierra, Valle de Los Chillos",500,Pichincha,3.0,3.0,140.0,2.0,Quito,Mirasierra,Quito,120-180,Medio
+Hermoso departamento de arriendo sector Ponceano Alto 2 dormitorios,380,Pichincha,2.0,2.0,80.0,1.0,Quito,Ponceano Alto,Quito,50-80,Medio
+Hermoso departamento de arriendo el bosque 2 dormitorios,500,Pichincha,2.0,2.0,100.0,1.0,Quito,El Bosque,Quito,80-120,Medio
+"Se arrienda departamento en Cumbaya, sector la Primavera.",1200,Pichincha,2.0,3.0,130.0,2.0,Quito,Cumbay,Quito,120-180,Lujo
+AMPLIA Y HERMOSA CASA DE RENTA EN SAN RAFAEL,1400,Pichincha,4.0,2.0,473.0,1.0,San Rafael,San Rafael,San Rafael,400+,Lujo
+"Arriendo Bodega, sector Ana Maria Bajo, Occidental",590,Pichincha,3.0,1.0,175.0,1.0,Quito,Ana Maria Bajo,Quito,120-180,Medio
+Se Renta Amplio Departamento en el Sector de la Unin Nacional Cerca del Centro Comercial el Bosque,690,Pichincha,4.0,4.0,230.0,1.0,Quito,Marcos Jofre,Quito,180-250,Medio
+Arriendo departamento en San Carlos frente al parque ingles,250,Pichincha,3.0,2.0,80.0,1.0,Quito,Av. Mariscal Sucre,Quito,50-80,Economico
+Arriendo Departamento Amoblado 2 Dorm. Centro Histrico,650,Pichincha,2.0,3.0,114.0,1.0,Quito,Centro Histrico,Quito,80-120,Medio
+"Arriendo Departamento Amoblado 3 Dorm. + Servicio, El Batn Bajo",600,Pichincha,3.0,3.0,115.0,1.0,Quito,El Batn,Quito,80-120,Medio
+"Vendo Terrenos de 200m2 Listos Para Construir en Cayo Beach, Avista Las Ballenas Jorobadas en Puerto Cayo, Jipijapa, Manab, Ecuador; Ventas: +593987213710",3840,Manab,1.0,1.0,100.0,1.0,Puerto Cayo,Puerto Cayo,Puerto Cayo,80-120,Economico
+"Vendo Terreno en Lotizacin Cayo Beach con: Agua, Luz, Calles Lastradas, Piscinas, reas Bbq, Playa de Puerto Cayo, Jipijapa, Manab; Llmame: 0987213710",5400,Manab,1.0,1.0,100.0,1.0,Puerto Cayo,Puerto Cayo,Puerto Cayo,80-120,Medio
+Alquiler dpto. totalmente amoblado,750,Guayas,2.0,1.0,120.0,1.0,Cdla. Cogra Frente A Miraflores,Cdla. Cogra Frente A Miraflores,Cdla. Cogra Frente A Miraflores,80-120,Medio
+"ARRIENDO DEPARTAMENTO, SECTOR QUICENTRO NORTE",610,Pichincha,3.0,2.0,110.0,2.0,Quito,Avenida 6 De Diciembre,Quito,80-120,Medio
+Se arrienda hermosa casa en la Via,2500,Pichincha,4.0,5.0,400.0,4.0,Quito,Cumbay,Quito,250-400,Lujo
+"Arriendo Suite Amoblada, Granda Centeno",280,Pichincha,1.0,1.0,50.0,1.0,Quito,Granda Centeno,Quito,0-50,Economico
+"TU LOTE A 3 CUADRAS DE LA PLAYA DE PUERTO CAYO, JIPIJAPA, MANABI Y CONSTRUYA SU CASA PARA VACACIONAR, LOTIZACIN CAYO BEACH CERCA DE LOS FRAILES Y PUERTO LOPEZ; CONTACTANOS: 0987213710",6000,Manab,1.0,1.0,100.0,1.0,Puerto Cayo,Puerto Cayo Playa,Puerto Cayo,80-120,Lujo
+VENTA DE SOLARES EN LOTIZACIN CAYO BEACH UBICADA EN PUERTO CAYO UNA DE LAS PLAYAS MAS HERMOSAS DE LA REGION COSTA DEL ECUADOR; WHATSAPP: 0987213710,6000,Manab,1.0,1.0,100.0,1.0,Puerto Cayo,Puerto Cayo Playa,Puerto Cayo,80-120,Lujo
+"TERRENOS EN PUERTO CAYO LUGAR IDEAL PARA EL DESCANSO Y VACACIONAR, TERRENOS DE 180M2 A $5.400 CON SERVICIOS BASICOS Y AREAS RECREATIVAS; WHATSAPP: +593987213710",5400,Manab,1.0,1.0,100.0,1.0,Puerto Cayo,Puerto Cayo Playa,Puerto Cayo,80-120,Medio
+"INVIERTE EN LA PLAYA EN PUERTO CAYO, JIPIJAPA, MANABI, LOTES DE 180M2 A 5.400 USD EN LOTIZACIN PRIVADA CAYO BEACH, ESCRITURAS INMEDIATAS; VENTAS: 0987213710",5400,Manab,1.0,1.0,100.0,1.0,Puerto Cayo,Puerto Cayo Playa,Puerto Cayo,80-120,Medio
+Bodega de Arriendo Centro Norte de Quito Sector Hospital Metropolitano,650,Pichincha,1.0,1.0,300.0,1.0,Quito,Cuero Y Caicedo,Quito,250-400,Medio
+RENTO LOCAL COMERCIAL EN VERSALLES Y PORTOVIEJO,390,Pichincha,3.0,1.0,30.0,1.0,Quito,Versalles,Quito,0-50,Medio
+"EN RENTA, LOCAL COMERCIAL EN EL SEC. LOS TULIPANES",170,Pichincha,3.0,1.0,20.0,1.0,Quito,Cotocollao,Quito,0-50,Economico
+SE ARRIENDA LOCAL COMERCIAL EN LA PRIMAVERA,800,Pichincha,3.0,2.0,80.0,3.0,Quito,La Primavera,Quito,50-80,Lujo
+DEPARTAMENTO EN ARRIENDO 230 $ QUITO  NORTE DE QUITO  EL CONDADO  PRADOS DEL CONDADO,230,Pichincha,3.0,2.0,100.0,1.0,Quito,El Condado,Quito,80-120,Economico
+Departamento en Renta sector La Kennnedy,300,Pichincha,3.0,2.0,386.0,1.0,Quito,La Kennedy,Quito,250-400,Economico
+HERMOSOS DEPARTAMENTO EN RENTA SECTOR QUITO NORTE,350,Pichincha,3.0,1.0,80.0,1.0,Quito,Cotocollao,Quito,50-80,Economico
+EN RENTA OFICINA EJECUTIVA ESTADIO OLIMPICO,452,Pichincha,3.0,2.0,100.0,1.0,Quito,Iaquito,Quito,80-120,Medio
+OFICINA EJECUTIVA EN RENTA ESTADIO OLIMPICO ATAHUA,218,Pichincha,3.0,2.0,40.0,1.0,Quito,Iaquito,Quito,0-50,Economico
+OFICINA EJECUTIVA EN RENTA EN IAQUITO,260,Pichincha,3.0,2.0,21.0,1.0,Quito,Iaquito,Quito,0-50,Economico
+SUITE CON PATIO PONCEANO ALTO / SUPERMAXI,350,Pichincha,1.0,2.0,67.0,1.0,Quito,Calle 3 & Francisco Dalmau,Quito,50-80,Economico
+SE RENTA LOCAL COMERCIAL -SECTOR CONOCOTO,1000,Pichincha,3.0,1.0,90.0,1.0,Quito,Conocoto,Quito,80-120,Lujo
+DEPARTAMENTO EN ARRIENDO 210 $  NORTE DE QUITO  EL CONDADO  URBANIZACIN PRADOS DEL CONDADO,210,Pichincha,3.0,2.0,90.0,1.0,Quito,El Condado,Quito,80-120,Economico
+DEPARTAMENTO EN GUAYAQUIL EN CIUDADEL ALBORADA 3ERA ETAPA DETRAZ DE PLAZA MAYOR PARA PERSONA SOLA O PAREJA SIN MASCOTAS,250,Guayas,1.0,1.0,100.0,1.0,Guayaquil,Alborada Iii Etapa,Guayaquil,80-120,Economico
+HERMOSO DEPARTAMENTO AMOBLADO EN RENTA / NORUEGA,900,Pichincha,3.0,2.0,106.0,1.0,Quito,Noruega,Quito,80-120,Lujo
+Arriendo Local Comercial sector Andaluca,1800,Pichincha,3.0,2.0,290.0,3.0,Quito,Andalucia,Quito,250-400,Lujo
+Departamento de Arriendo sector Andaluca,390,Pichincha,2.0,1.0,100.0,1.0,Quito,Andalucia,Quito,80-120,Medio
+Alquilo amplio consultorio en sector de la antigua Maternidad Enrique Sotomayor,900,Guayas,6.0,4.0,190.0,1.0,Pedro Pablo Gmez,Pedro Pablo Gmez,Pedro Pablo Gmez,180-250,Medio
+Hermoso departamento duplex de arriendo sector Ponceano alto de oportunidad,500,Pichincha,3.0,3.0,120.0,2.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector el bosque 3 dormitorios,550,Pichincha,3.0,2.0,100.0,2.0,Quito,El Bosque,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad 3 dormitorios Ponceano alto $400,400,Pichincha,3.0,3.0,100.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector Shyris Carolina,500,Pichincha,2.0,2.0,85.0,1.0,Quito,Avenida De Los Shyris,Quito,80-120,Medio
+Hermosa suite amoblada de arriendo de oportunidad sector Portugal,500,Pichincha,1.0,2.0,75.0,1.0,Quito,Portugal,Quito,50-80,Medio
+Bello departamento de alquiler en Mocoli,2300,Guayas,3.0,1.0,220.0,2.0,Samborondn,Isla Mocoli,Samborondn,180-250,Lujo
+Hermosa casa de arriendo de oportunidad sector Pomasqui,380,Pichincha,3.0,3.0,130.0,2.0,Quito,Pomasqui,Quito,120-180,Medio
+DEPARTAMENTO EN ARRIENDO $215 NORTE DE QUITO  EL CONDADO  PRADOS DEL CONDADO,215,Pichincha,3.0,1.0,90.0,1.0,Quito,El Condado,Quito,80-120,Economico
+Suite amoblada sector La Carolina Av Shyris,450,Pichincha,1.0,1.0,40.0,1.0,Quito,Luxemburgo & Holanda,Quito,0-50,Medio
+SE RENTA PROPIEDAD COMERCIAL SECTOR LA DELICIA,5000,Pichincha,3.0,6.0,1850.0,1.0,Quito,La Delicia,Quito,,Lujo
+LOCAL COMERCIAL VENTA/RENTA,900,Pichincha,3.0,2.0,120.0,1.0,Quito,La Pradera,Quito,80-120,Lujo
+ARRIENDO OFICINA SECTOR LA SHYRIS,390,Pichincha,3.0,2.0,50.0,1.0,Quito,Av. De Los Shyris,Quito,0-50,Medio
+"ARRIENDO LOCAL PUEMBO, SERVICIOS MDICOS,DENTALES",350,Pichincha,3.0,2.0,100.0,1.0,Puembo,Puembo,Puembo,80-120,Lujo
+RENTO DEPARTAMENTO 2 DORM.SECTOR REP. DEL SALVADOR,550,Pichincha,2.0,1.0,95.0,1.0,Quito,Av Repblica De El Salvador,Quito,80-120,Medio
+Hermoso departamento de arriendo amoblado sector el bosque,500,Pichincha,3.0,2.0,115.0,1.0,Quito,El Bosque,Quito,80-120,Medio
+Tv: Se Renta suite vacia Sector El Inca,300,Pichincha,1.0,2.0,74.0,1.0,Quito,De Los Madroos,Quito,50-80,Economico
+Tv: ARRIENDO DEPARTAMENTO SECTOR NORTE ELOY ALFARO  QUITO,350,Pichincha,2.0,2.0,90.0,1.0,Quito,Monteserrin,Quito,80-120,Economico
+Tvc: Arriendo departamento 2 dormitorios sector Tumbaco,230,Pichincha,2.0,1.0,67.0,1.0,Quito,Av. Intervalles,Quito,50-80,Economico
+Tv: Arriendo departamento 3 dormitorios sector Caminos del Sur,290,Pichincha,3.0,3.0,145.0,1.0,Quito 170131,Santa Rita,Quito 170131,120-180,Medio
+Tv: Rento departamento 2 dormitorios sector Andalucia,210,Pichincha,2.0,1.0,65.0,1.0,Quito 170104,Andalucia,Quito 170104,50-80,Economico
+Tv: Arriendo departamento 3 dormitorios sector Iaquito,550,Pichincha,3.0,3.0,110.0,1.0,Iaquito,Iaquito,Iaquito,80-120,Medio
+ALQUILO OFICINA EN EDIFICIO TRADE BUILDING,600,Guayas,3.0,1.0,50.0,1.0,Guayaquil,Avenida Jose Joaquin De Olmedo,Guayaquil,0-50,Medio
+ALQUILO OFICINA CON AIRE ACONDICIONADO EN KENNEDY NORTE,720,Guayas,3.0,1.0,72.0,1.0,Guayaquil,Kennedy Norte,Guayaquil,50-80,Lujo
+"Arriendo Departamento, 3 dormitorios amplios, Sector Eloy Alfaro entre los Guayacanes y Fresnos",420,Pichincha,3.0,2.0,110.0,1.0,Quito,De Los Guayacanes & De Los Fresnos,Quito,80-120,Medio
+ARRIENDO DEPARTAMENTO OCCIDENTAL SECTOR ANT,250,Pichincha,2.0,1.0,62.0,1.0,Quito,Torres Constelacion,Quito,50-80,Economico
+Renta 2 dormitorios amoblado de lujo Republica del Salvador centro norte,900,Pichincha,2.0,2.0,120.0,1.0,Quito,Avenida Repblica De El Salvador,Quito,80-120,Lujo
+OFICINA RENTA -SECT. IAQUITO ED.AMAZONAS,500,Pichincha,3.0,2.0,54.0,1.0,Quito,Iaquito,Quito,50-80,Medio
+ARRIENDO OFICINA  SEC. IAQUITO BCO. AMAZONAS,500,Pichincha,3.0,2.0,30.0,1.0,Quito,Iaquito,Quito,0-50,Medio
+ARRIENDO CASA AMOBLADA OFICINAS-SECTOR RUMIAHUI,1000,Pichincha,3.0,2.0,224.0,1.0,Quito,De Los Cedros,Quito,180-250,Lujo
+SE ARRIENDA BONITO LOCAL COMERCIAL (AV. ILALO),325,Pichincha,3.0,2.0,70.0,1.0,Quito,Av Ilal,Quito,50-80,Economico
+SE ARRIENDA BONITO LOCAL COMERCIAL LA MAGDALENA,550,Pichincha,3.0,2.0,120.0,1.0,Quito,La Magdalena,Quito,80-120,Medio
+Rento departamento dplex Gonzlez Surez,1000,Pichincha,2.0,3.0,190.0,2.0,Gonzlez Surez,Gonzlez Surez,Gonzlez Surez,180-250,Medio
+SE ARRIENDA LOCAL EN IAQUITO,450,Pichincha,3.0,2.0,45.0,1.0,Quito,Iaquito,Quito,0-50,Medio
+SE ALQUILA OFICINA DE IAQUITO,400,Pichincha,3.0,1.0,25.0,1.0,Quito,Iaquito,Quito,0-50,Medio
+"Rento Casa Hermosa, Cumbaya, Seguridad, Conjunto, Amplios Jardines Comunales",880,Pichincha,3.0,4.0,153.0,2.0,Quito,Cumbay,Quito,120-180,Lujo
+Renta o venta hermoso y elegante departamento Miravalle Urbanizacin,1200,Pichincha,3.0,3.0,145.0,2.0,Quito,Miravalle,Quito,120-180,Lujo
+RENTO CASA MUY MODERNA Y ELEGANTE TANDA,3500,Pichincha,4.0,4.0,450.0,4.0,Quito 170157,Eugenio Espejo,Quito 170157,400+,Lujo
+Rento hermoso departamento rstico URBANIZACIN TANDA,1200,Pichincha,2.0,3.0,225.0,2.0,Nayn Tanda Eugenio Espejo,Nayn Tanda Eugenio Espejo,Nayn Tanda Eugenio Espejo,180-250,Medio
+RENTO HERMOSA SUITE A ESTRENAR CUMBAY LA PRIMAVERA,600,Pichincha,1.0,2.0,60.0,1.0,Quito,Cumbay,Quito,50-80,Medio
+TERRENO EN RENTA EN CALDERON,450,Pichincha,3.0,2.0,100.0,1.0,Quito,Caldern,Quito,80-120,Medio
+ARRIENDO OFICINA SECTOR LA CAROLINA,650,Pichincha,3.0,2.0,64.0,1.0,Quito,Iaquito,Quito,50-80,Medio
+OFICINA EJECUTIVA EN RENTA REPUBLICA DEL SALVADOR,1300,Pichincha,3.0,2.0,164.0,2.0,Quito,Avenida Repblica De El Salvador,Quito,120-180,Lujo
+EN RENTA TERRENO PLANO SAN ANTONIO DE PICHINCHA,450,Pichincha,3.0,2.0,100.0,1.0,Quito,San Antonio De Pichincha,Quito,80-120,Medio
+EN RENTA DEPARTAMENTO LA FLORIDA,280,Pichincha,3.0,2.0,70.0,1.0,Quito,La Concepcin,Quito,50-80,Economico
+OFICINAS DE ARRIENDO SECTOR LA CONCEPCIN,350,Pichincha,3.0,2.0,66.0,1.0,Quito,La Concepcin,Quito,50-80,Economico
+Hermoso departamento de arriendo de oportunidad sector Granados UDLA,500,Pichincha,3.0,3.0,110.0,1.0,Quito,De Los Granados,Quito,80-120,Medio
+"Arriendo casa en Juan Procel, Norte de Quito, sector El Condado",350,Pichincha,3.0,3.0,130.0,1.0,Quito,Juan Procel,Quito,120-180,Economico
+LOCAL EN RENTA VIA PRINCIPAL AL AEROPUERTO,500,Pichincha,3.0,2.0,70.0,1.0,Pifo,Pifo,Pifo,50-80,Economico
+LOCAL EN RENTA VIA PRINCIPAL PIFO,1200,Pichincha,3.0,2.0,300.0,1.0,Pifo,Pifo,Pifo,250-400,Lujo
+Hermoso departamento de arriendo sector La Catolica,470,Pichincha,2.0,2.0,80.0,1.0,Quito,Avenida Isabel La Catlica,Quito,50-80,Medio
+Rento cmodo departamento sector Los Laureles,400,Pichincha,3.0,3.0,100.0,1.0,Quito,Los Laureles,Quito,80-120,Medio
+OFICINA EN RENTA  AMOBLADA,380,Pichincha,3.0,1.0,48.0,2.0,Quito,Mariana De Jesus & La Pradera,Quito,0-50,Medio
+Arriendo casa Condado Juan Procel Norte de Quito,550,Pichincha,4.0,4.0,175.0,2.0,Quito 170134,Juan Procel,Quito 170134,120-180,Medio
+Hermoso departamento de oportunidad sector Granados (UDLA),380,Pichincha,3.0,2.0,100.0,1.0,Quito 170513,Av. Eloy Alfaro & De Los Granados,Quito 170513,80-120,Medio
+Bodega en Arriendo sector Sangolqu,270,Pichincha,2.5,1.5,22.0,1.0,Sangolqu,Sangolqu,Sangolqu,0-50,Medio
+Arriendo departamento sur de Quito,100,Pichincha,2.0,1.0,60.0,1.0,Quito,Nueva Aurora,Quito,50-80,Economico
+Departamento Dplex en renta sector la Amrica,650,Pichincha,4.0,2.0,177.0,1.0,Quito,Av. Amrica & San Gabriel,Quito,120-180,Medio
+Local Comercial en renta sector Capelo local 1,230,Pichincha,3.0,2.0,45.0,1.0,Quito,Capelo,Quito,0-50,Economico
+120 M2 CASA AMOBLADA RENTA SALGOLQUI JUNTO AL IESS,500,Pichincha,3.0,2.0,120.0,1.0,Sangolqu,Sangolqu,Sangolqu,80-120,Medio
+ARRIENDO TERRENO COMERCIAL AV. PRINCIPAL GEOVANNY CALLES MARIANITAS CALDERON,360,Pichincha,3.0,2.0,8.0,1.0,Quito,Calderon,Quito,0-50,Economico
+Hermoso departamento de arriendo de oportunidad Ponceano Alto $370,370,Pichincha,3.0,2.0,110.0,1.0,Quito,Ponceano Alto,Quito,80-120,Economico
+Hermosa suite departamento en arriendo Pinar Alto,430,Pichincha,1.0,2.0,70.0,1.0,Quito,El Pinar Alto,Quito,50-80,Medio
+Hermoso departamento de arriendo sector 6 de Diciembre y Gonzles Suarez,500,Pichincha,3.0,3.0,120.0,2.0,Quito,Gonzalez Suarez,Quito,80-120,Medio
+Se arrienda hermosa suite amoblada Ponceano alto,350,Pichincha,1.0,1.0,70.0,1.0,Quito,Ponceano Alto,Quito,50-80,Economico
+Hermosa casa de arriendo de oportunidad $450 Ponceano alto,450,Pichincha,3.0,3.0,140.0,2.0,Quito,Ponceano Alto,Quito,120-180,Medio
+Hermoso departamento de arriendo de oportunidad $380 sector Ponceano alto tres dormitorios,380,Pichincha,3.0,2.0,135.0,2.0,Quito,Ponceano Alto,Quito,120-180,Medio
+Rento cmodo y seguro departamento en San Carlos,240,Pichincha,2.0,1.0,100.0,1.0,Quito,Machala Y Vaca De Castro,Quito,80-120,Economico
+"Rento casa, sector Ponceano",450,Pichincha,3.0,3.0,127.0,1.0,Quito,Ponciano Alto,Quito,120-180,Medio
+"ALQUILO CASA DE 2 PLANTAS MALAGA 2, VIA SALITRE",400,Guayas,3.0,3.0,105.0,2.0,Guayaquil,Salitre 5,Guayaquil,80-120,Economico
+RENTO DPTO. 3 DORMITORIOS EN LA JIPIJAPA,450,Pichincha,3.0,3.0,136.0,1.0,Quito,Isla Isabela,Quito,120-180,Medio
+AMPLIO PATIO ESQUINERO EN ZONA COMERCIAL,700,Pichincha,3.0,2.0,80.0,1.0,Quito,Avenida Alonso De Angulo,Quito,50-80,Medio
+ARRIENDO LOCAL AMPLIO EN LA VILLAFLORA,700,Pichincha,3.0,1.0,100.0,1.0,Quito,Av Alonso De Angulo,Quito,80-120,Medio
+"LOTES PARA SU CASA VACACIONAL PLAYERA O PARA SU VIVIENDA PERMANENTE, DENTRO DE LOTIZACIN PRIVADA EN PUERTO CAYO A 30 MINUTOS DE PUERTO LOPEZ; VENTAS: +593987213710",6000,Manab,3.0,2.0,100.0,1.0,Manabi,Jipijapa,Manabi,80-120,Medio
+Alquiler de Departamento 3 dormitorios Urb. Parque Magno,1200,Guayas,3.0,3.0,139.0,2.0,Samborondn,Avenida Los Arrozales,Samborondn,120-180,Economico
+Alquilo Bodega 212 mts via a Daule,954,Guayas,3.0,2.0,212.0,1.0,Guayaquil,Va A Daule,Guayaquil,180-250,Lujo
+SUITE BOSMEDIANO RENTA,520,Pichincha,1.0,2.0,70.0,1.0,Quito,Jose Bosmediano,Quito,50-80,Medio
+"Arriendo Quinta a 10 minutos del Aeropuerto Internacional Sucre, Sector Tumbaco Arenal Hilacryl",1000,Pichincha,4.0,3.0,500.0,10.0,Rio San Pedro E4-325 Y Rio Chiche,Rio San Pedro E4-325 Y Rio Chiche,Rio San Pedro E4-325 Y Rio Chiche,400+,Medio
+Moderno Departamento/Suite Amoblado Sector La Carolina,540,Pichincha,1.0,2.0,80.0,1.0,Quito,Avenida 6 De Diciembre,Quito,50-80,Medio
+Suite Amoblada de Lujo en la Shyris,450,Pichincha,1.0,1.0,50.0,1.0,Quito,De Los Shyris Y Portugal,Quito,0-50,Medio
+"Alquiler hermoso departamento 2 dormitorios. Sector embajada americana, solca, norte de Quito.",340,Pichincha,2.0,2.0,85.0,1.0,Quito,Avigiras & De Los Cholanes,Quito,80-120,Economico
+"Alquiler hermosa suite amoblada Av. Repblica de El Salvador, norte de Quito",430,Pichincha,1.0,1.0,65.0,1.0,Quito,Av Repblica De El Salvador,Quito,50-80,Medio
+"Alquiler departamento 3 dormitorios en San Pedro Claver, Av. La Prensa y Fernandez Salvador, norte de Quito",310,Pichincha,3.0,1.0,90.0,1.0,Quito,Av. Dr. Jos Fernndez Salvador,Quito,80-120,Economico
+Rento Suite 75 metros sector Republica del Salvador,450,Pichincha,1.0,2.0,75.0,1.0,Quito 170102,Av. Portugal & Av Repblica De El Salvador,Quito 170102,50-80,Economico
+"ARRIENDO DEPARTAMENTO 3 DORMITORIOS, SECTOR UNIVERSIDAD CATLICA,",420,Pichincha,3.0,2.0,110.0,1.0,Quito 170143,Avenue 12 De Octubre 1076,Quito 170143,80-120,Medio
+Alquilo 2 Departamentos grandes de 4 dormitorios Sector El Bosque,720,Pichincha,4.0,3.0,230.0,2.0,Quito,El Bosque,Quito,180-250,Lujo
+Vendo o arriendo Departamento en El Condado Vicolinci,600,Guayas,2.0,3.0,121.0,2.0,Avenida Len Febres Cordero Ribadeneyra,El Condado Vicolinci,Avenida Len Febres Cordero Ribadeneyra,120-180,Medio
+"APARTAMENTOS, SUITES Y HABITACIONES AMOBLADAS Y EQUIPADAS DE ARRIENDO",400,Pichincha,3.0,2.0,100.0,1.0,Quito,Francisco Robles E2-07 Y Paez,Quito,80-120,Medio
+Hermoso departamento de arriendo Ponceano alto de oportunidad,450,Pichincha,3.0,3.0,125.0,1.0,Quito,Ponceano Alto,Quito,120-180,Medio
+Hermosa suite de lujo de arriendo por estrenar 6 de Diciembre,570,Pichincha,1.0,2.0,75.0,1.0,Quito,6 De Diciembre,Quito,50-80,Medio
+Hermosa casa de arriendo por estrenar Pomasqui,400,Pichincha,3.0,3.0,95.0,1.0,Quito,Pomasqui,Quito,80-120,Medio
+Hermosa suite por estrenar Monteserrin ecopark de oportunidad,500,Pichincha,1.0,2.0,75.0,1.0,Quito,Monteserrin,Quito,50-80,Medio
+Arriendo departamento en Tonsupa Esmeraldas,508,Esmeraldas,3.0,3.0,140.0,1.0,Tonsupa,Av. Club Del Pacfico,Tonsupa,120-180,Medio
+Departamento de arriendo al Norte de Quito,350,Pichincha,3.0,3.0,110.0,1.0,Quito,Pedro Garcia Moreno,Quito,80-120,Economico
+SE ARRIENDA LOCAL COMERCIAL/ OFICINA / CONSULTORIO  SECTOR 9 DE OCTUBRE,245,Pichincha,2.0,1.0,49.0,1.0,Quito,9 De Octubre & Avenida Eloy Alfaro,Quito,0-50,Economico
+Hermoso departamento de arriendo en Quito tenis,1100,Pichincha,4.0,4.0,300.0,2.0,Quito,Quito Tenis,Quito,250-400,Lujo
+Hermoso departamento de arriendo sector Quito Tennis de oportunidad,450,Pichincha,2.0,2.0,90.0,1.0,Quito,Quito Tenis,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad $420 sector Brasil,420,Pichincha,2.0,1.0,90.0,1.0,Quito,Avenida Brasil,Quito,80-120,Medio
+Hermosa casa de arriendo sector colegio sek,600,Pichincha,3.0,3.0,160.0,2.0,Quito,De Los Guayacanes,Quito,120-180,Medio
+Hermoso departamento duplex de arriendo de oportunidad Ponceano Alto,500,Pichincha,3.0,3.0,196.0,3.0,Quito,Ponceano Alto,Quito,180-250,Medio
+Hermoso departamento de arriendo sector Ponceano alto,280,Pichincha,2.0,2.0,85.0,1.0,Quito,Ponceano Alto,Quito,80-120,Economico
+Hermoso departamento de arriendo de oportunidad Gonzlez Surez,550,Pichincha,2.0,2.0,100.0,2.0,Quito,Gonzalez Suarez,Quito,80-120,Medio
+Hermoso departamento de arriendo de oportunidad sector El Pinar,350,Pichincha,3.0,2.0,90.0,1.0,Quito,El Pinar,Quito,80-120,Economico
+Casa con LOCAL COMERCIAL en arriendo  Mitad del Mundo,690,Pichincha,3.0,2.0,311.0,1.0,Quito,5,Quito,250-400,Medio
+Hermoso departamento de arriendo sector Granda Centeno de oportunidad,530,Pichincha,2.0,2.0,90.0,1.0,Quito,Granda Centeno,Quito,80-120,Medio
+Hermoso departamento de arriendo sector Quicentro norte,600,Pichincha,2.0,3.0,110.0,2.0,Quito,Avenida De Los Shyris,Quito,80-120,Medio
+Hermosa suite amoblada sector Bosque de oportunidad,500,Pichincha,1.0,2.0,75.0,1.0,Quito,El Bosque,Quito,50-80,Medio
+Alquilo Departamento de 2 Dormitorios en Nva. Kennedy,300,Guayas,2.0,2.0,64.0,0.0,6 Pasaje 9 No Kennedy Guayaquil Guayaquil,Pichincha,6 Pasaje 9 No Kennedy Guayaquil Guayaquil,50-80,Economico
+Alquilo Suite de 2 Ambientes en Nva. Kennedy,200,Guayas,1.0,1.0,24.0,0.0,Guayaquil 090512,6 Pasaje 9 No,Guayaquil 090512,0-50,Medio
+Alquilo Dpto de 3 Dormitorios en Nva. Kennedy,400,Guayas,3.0,2.0,96.0,0.0,6 Pasaje 9 No Kennedy Guayaquil Guayaquil,6 Pasaje 9 No Kennedy Guayaquil Guayaquil,6 Pasaje 9 No Kennedy Guayaquil Guayaquil,80-120,Lujo
+"Alquilo City Suites Departamento Amoblado, Guayaquil",600,Guayas,1.0,1.0,38.0,1.0,Guayaquil,Avenida Benjamn Carrin Mora,Guayaquil,0-50,Medio
+"Alquiler Departamento Samanes, Norte de Guayaquil",350,Guayas,2.0,2.0,100.0,0.0,Avenida 1C Ne Samanes Guayaquil Guayaquil,Avenida 1C Ne Samanes Guayaquil Guayaquil,Avenida 1C Ne Samanes Guayaquil Guayaquil,80-120,Medio
+"Alquilo Las Cumbres, Ceibos, Guayaquil",850,Guayas,3.0,4.0,200.0,2.0,Guayaquil,Urbanizacin Las Cumbres,Guayaquil,180-250,Lujo
+Hermoso departamento de arriendo amoblado Repblica del Salvador Amoblado,750,Pichincha,2.0,3.0,100.0,1.0,Quito,Naciones Unidas Y Republica Del Salvador,Quito,80-120,Lujo
+Hermoso departamento de arriendo amoblado sector Brasil,500,Pichincha,2.0,3.0,100.0,1.0,Quito,Avenida Brasil,Quito,80-120,Medio
+Hermoso departamento de arriendo Ponceano alto de oportunidad,450,Pichincha,3.0,3.0,100.0,2.0,Poceano Quito,Poceano Quito,Poceano Quito,80-120,Medio
+Hermoso departamento de arriendo sector Quicentro norte,620,Pichincha,2.0,3.0,120.0,2.0,Quito,Avenida De Los Shyris,Quito,80-120,Medio
+Arriendo departamento en Condominios el Inca,280,Pichincha,3.0,1.0,64.0,1.0,Quito 170125,De Los Colimes Esq,Quito 170125,50-80,Medio
+"Suite en alquiler, sector Plaza Artigas",400,Pichincha,1.0,1.5,56.84,1.0,Quito 170109,Destruge,Quito 170109,50-80,Medio
+"Oficina en renta, sector Hotel Quito-Av. 12 de Octubre",2000,Pichincha,3.0,3.0,208.95,4.0,Quito,La Paz,Quito,180-250,Lujo
+"Local comercial en alquiler, sector Iaquito",800,Pichincha,3.0,1.0,60.0,0.0,Quito,Juan Gonzlez,Quito,50-80,Lujo
+"Depto de lujo, excelente vista y ubicacion.",400,Pichincha,1.0,2.0,97.0,1.0,Quito 170132,Calle B,Quito 170132,80-120,Economico
+Hermosa casa de arriendo de oportunidad sector Pomasqui $350,350,Pichincha,3.0,3.0,103.0,2.0,Quito,Pomasqui,Quito,80-120,Economico
+Hermoso departamento de arriendo de oportunidad sector Union nacional bosque,450,Pichincha,3.0,3.0,130.0,1.0,Quito,Unin Nacional De Periodistas,Quito,120-180,Medio
+Hermoso departamento de lujo en. Arriendo sector el bosque,500,Pichincha,2.0,2.0,103.0,1.0,Quito,El Bosque,Quito,80-120,Medio
+Rento Casa Av Intervalles,1400,Pichincha,3.0,2.0,100.0,1.0,Av. Intervalles,Av. Intervalles,Av. Intervalles,80-120,Medio
+"LAVISTA TOWERS, 50XDIA, 300XSEMANA, 550XQUINCENA, 1000XMES, SEGURIDAD Y PRIVACIDAD.",1000,Guayas,2.0,2.0,70.0,1.0,Los Lamos Alamos Guayaquil Guayas,Los Lamos Alamos Guayaquil Guayas,Los Lamos Alamos Guayaquil Guayas,50-80,Medio
+Hermoso departamento de arriendo duplex sector Ponceano alto,400,Pichincha,2.0,2.0,85.0,1.0,Quito,Ponceano Alto,Quito,80-120,Medio
+Hermoso departamento de arriendo sector Gonzales Surez,750,Pichincha,2.0,2.0,130.0,1.0,Quito 170517,Gonzalez Suarez,Quito 170517,120-180,Lujo
+Rento casa comercial sector 12 de octubre ideal para restaurantes,2500,Pichincha,4.0,4.0,500.0,8.0,Quito,Avenue 12 De Octubre,Quito,400+,Lujo
+Arriendo dos locales de oportunidad sector plaza de toros isla floreana,1100,Pichincha,3.0,2.0,170.0,3.0,Quito,Avenida Isla Floreana,Quito,120-180,Lujo
+Hermoso departamento por estrenar sector Portugal,550,Pichincha,2.0,2.0,95.0,1.0,Quito,Avenida Portugal,Quito,80-120,Medio
+Renta Departamento 2 Habitaciones Republica del Salvador SECTOR QUICENTRO,650,Pichincha,2.0,2.0,109.0,1.0,Quito 170102,Av Repblica De El Salvador,Quito 170102,80-120,Medio
+"Departamento de arriendo, Rep. del Salvador, 120 mts, $ 600 JD",600,Pichincha,2.0,3.0,120.0,1.0,Av Repblica De El Salvador La Carolina Quito Distrito Metropolitano De Quito,Av Repblica De El Salvador La Carolina Quito Distrito Metropolitano De Quito,Av Repblica De El Salvador La Carolina Quito Distrito Metropolitano De Quito,80-120,Medio
+DEPARTAMENTO DE DOS HABITACIONES SECTOR CAROLINA,650,Pichincha,2.0,2.0,85.0,2.0,Quito,La Carolina,Quito,80-120,Medio
+DEPARTAMENTO EN RENTA 160M2 GASPAR DE VILLAROEL $600,600,Pichincha,3.0,2.0,100.0,1.0,Quito,Av. 6 De Diciembre,Quito,80-120,Medio
+DEPARTAMENTO FRENTE AL C.C.EL BOSQUE 242M2,1200,Pichincha,3.0,3.0,242.0,3.0,Quito,El Bosque,Quito,180-250,Lujo
+OFICINA SECTOR GRANDA CENTENO $550,550,Pichincha,5.0,3.0,200.0,1.0,Quito 170521,Granda Centeno,Quito 170521,180-250,Medio
+SUITE AMOBLADO 60M2 SECTOR 12 DE OCTUBRE EN RENTA.,530,Pichincha,1.0,1.0,60.0,1.0,Quito,Ave 12 De Octubre,Quito,50-80,Medio
+"Puerto Azul, Departamento en Alquiler",600,Guayas,2.0,2.0,77.0,1.0,Va A La Costa,Va A La Costa,Va A La Costa,50-80,Medio
+"Urdesa Central, Suite Amoblada",400,Guayas,1.0,1.0,45.0,1.0,Guayaquil 090511,Urdesa Central,Guayaquil 090511,0-50,Medio
+"RENTA MODERNO DEPARTAMENTO, SECTOR CENTRO NORTE, CATALINA ALDAZ",650,Pichincha,2.0,2.0,100.0,1.0,Catalina Aldaz,Catalina Aldaz,Catalina Aldaz,80-120,Medio
+"Hm/ San Carlos, 300 Usd! Departamento 2 Habitaciones de 60 m en Arriendo.",300,Pichincha,2.0,1.0,60.0,1.0,La Concepcin Quito Distrito Metropolitano De Quito Pichincha,La Concepcin Quito Distrito Metropolitano De Quito Pichincha,La Concepcin Quito Distrito Metropolitano De Quito Pichincha,50-80,Medio
+"Renta Suite Amoblada, Carolina, Sector Centro Norte",470,Pichincha,1.0,1.0,62.0,1.0,Quito 170102,Corea,Quito 170102,50-80,Economico
+"Rento Departamento, Cerca Plataforma Gubernamental, Sector Centro Norte",475,Pichincha,2.0,1.0,90.0,1.0,Quito 170102,Japn,Quito 170102,80-120,Economico
+"Rento Departamento Amoblado, Sector Republica del Salvador",850,Pichincha,3.0,3.0,110.0,1.0,Quito 170102,Av Repblica De El Salvador,Quito 170102,80-120,Lujo
+"Arriendo Oficina Amoblada, Sector Mall El Jardin, Av Amazonas",400,Pichincha,3.0,1.0,50.0,1.0,Quito,Av. Amazonas,Quito,0-50,Medio
+"Rento Oficina Moderna Amoblada, Sector Pradera",850,Pichincha,3.0,1.0,75.0,2.0,Quito,Mariana De Jesus,Quito,50-80,Lujo
+"Rento Bonita Suite Amoblada, Republica del Salvador",480,Pichincha,1.0,2.0,61.0,1.0,Quito 170102,Av Repblica De El Salvador,Quito 170102,50-80,Medio
+"Rento Local Comercial Sector Centro Norte, Granados",1500,Pichincha,4.0,3.0,150.0,0.0,Quito,De Los Granados,Quito,120-180,Lujo
+"RENTO SUITE MODERNA, TOTALMENTE AMOBLADA Y EQUIPADA.. CAROLINA",690,Pichincha,2.0,2.0,60.0,1.0,Quito 170102,Av. Portugal,Quito 170102,50-80,Medio
+"DEPARTAMENTO AMOBLADO EN RENTA TRES DORMITORIOS, REPBLICA DE EL SALVADOR",850,Pichincha,3.0,4.0,130.0,1.0,Quito 170102,Av Repblica De El Salvador,Quito 170102,120-180,Lujo
+SUITE SEMIAMOBLADA EN RENTA. QUITO TENIS $360,360,Pichincha,1.0,1.0,70.0,1.0,Hidalgo De Pinto Chaupicruz Quito Distrito Metropolitano De Quito,Hidalgo De Pinto Chaupicruz Quito Distrito Metropolitano De Quito,Hidalgo De Pinto Chaupicruz Quito Distrito Metropolitano De Quito,50-80,Medio
+Departamento en Arriendo Bellavista,550,Pichincha,2.0,2.0,69.0,1.0,Quito 170102,Ignacio Bossano & Avenida 6 De Diciembre,Quito 170102,50-80,Medio
+Departamento en Venta  Arriendo Carceln/Mastodontes,300,Pichincha,2.0,2.0,84.0,1.0,Quito,Jaime Rolds Aguilera & Calle E,Quito,80-120,Economico
+Alquil local en la 10 de Agosto y Mariana de Jess,850,Pichincha,3.0,2.0,140.0,1.0,10 De Agosto Y Mariana De Jess,10 De Agosto Y Mariana De Jess,10 De Agosto Y Mariana De Jess,120-180,Medio
+RENTO OFICINA EN SECTOR CAROLINA,750,Pichincha,4.0,2.0,96.0,2.0,Quito 170102,Tamayo & Avenida 6 De Diciembre,Quito 170102,80-120,Medio
+ARRIENDO DEPARTAMENTO AMOBLADO,819,Pichincha,2.0,3.0,100.0,1.0,Quito,Finlandia & Suecia,Quito,80-120,Lujo
+"Rento Oficina comercial Torre Boreal, Av. 12 de Octubre y Av. Colon, sector La Floresta",400,Pichincha,3.0,1.0,60.0,1.0,N24-739 Avenue 12 De Octubre Mariscal Sucre Quito,N24-739 Avenue 12 De Octubre Mariscal Sucre Quito,N24-739 Avenue 12 De Octubre Mariscal Sucre Quito,50-80,Medio
+ALQUILO SUITE TEMPORAL EN AV REPBLICA DEL SALVADOR,1000,Pichincha,1.0,1.0,70.0,1.0,Av. Repblica Del Salvador Y Moscu,Av. Repblica Del Salvador Y Moscu,Av. Repblica Del Salvador Y Moscu,50-80,Medio
+CASA PARA OFICINAS EN RENTA,2100,Pichincha,6.0,5.0,460.0,5.0,Sector Plataforma Financiera Norte,Sector Plataforma Financiera Norte,Sector Plataforma Financiera Norte,400+,Medio
+Casa en renta valle La ESPE,600,Pichincha,2.5,1.5,90.0,1.0,Sangolqu,Sangolqu,Sangolqu,80-120,Medio
+Hermoso departamento excelente sector Ponceano,500,Pichincha,3.0,2.0,100.0,1.0,Ponceano,Ponceano,Ponceano,80-120,Medio
+Hermosa casa De oportunidad 3 dormitorios excelente sector Ponceano Alto,480,Pichincha,3.0,3.0,150.0,1.0,Quito,Ponceano Alto,Quito,120-180,Medio
+Hermosa casa excelente sector colegio SEK quito,600,Pichincha,4.0,3.0,200.0,2.0,Quito 170124,De Los Guayacanes N51,Quito 170124,180-250,Lujo
+Hm/ Sector La Pradera Usd 520 Se Arrienda Hermosa Suite Amoblada de 46 m.,520,Pichincha,1.0,1.0,46.0,1.0,Diego De Almagro La Pradera Quito Distrito Metropolitano De Quito,Diego De Almagro La Pradera Quito Distrito Metropolitano De Quito,Diego De Almagro La Pradera Quito Distrito Metropolitano De Quito,0-50,Medio
+Hm/amazonas en Renta 100 m  Mariscal Sucre Usd 850,850,Pichincha,2.0,2.0,100.0,0.0,Quito 170143,Av. Gral. Ignacio De Veintimilla & Av. Amazonas,Quito 170143,80-120,Lujo
+Hermoso departamento 2 Dormitorios excelente sector CCI,500,Pichincha,2.0,2.0,100.0,1.0,Quito,Centro Comercial Iaquito (Cci),Quito,80-120,Medio
+ARRIENDO CAROLINA 3 DORMITORIOS 105 M2 $600,600,Pichincha,3.0,2.0,105.0,1.0,Quito 170102,Av. Eloy Alfaro & Av. De Los Shyris,Quito 170102,80-120,Medio
+VENDO O ARRIENDO QUINTA EN TUMBACO ARENAL HILACRYL,1200,Pichincha,3.0,2.0,300.0,4.0,Quito,Aurelio Dvila Cajas,Quito,250-400,Lujo
+"Se alquila suite segura, cmoda y econmica",165,Guayas,1.0,1.0,32.0,0.0,Guayaquil 090510,Urbanor,Guayaquil 090510,0-50,Medio
+Arriendo Dep. Cumbaya,300,Pichincha,2.0,1.0,100.0,1.0,Quito 170184,Rodrigo Nuez,Quito 170184,80-120,Medio
+Hermoso departamento de alquiler Sector El Batan,700,Pichincha,2.0,2.5,100.0,2.0,Quito,El Batn,Quito,80-120,Medio
+"Suite de alquiler amoblada en el Batan, ideal para estudiante!",500,Pichincha,1.0,1.5,60.0,1.0,Quito,El Batn,Quito,50-80,Medio
+Hermoso departamento de alquiler en el Batan,700,Pichincha,3.0,2.5,115.0,2.0,Quito,El Batn,Quito,80-120,Medio
+Hermoso Suite Loft amoblado de alquiler sector Whimper,550,Pichincha,1.0,2.0,74.0,1.0,Quito,Whymper,Quito,50-80,Medio
+Departamento de alquiler Urbanizacin El Condado,680,Pichincha,3.0,3.0,210.0,2.0,Quito,Calle C,Quito,180-250,Medio
+De Oportunidad casa de alquiler Urbanizacin El Condado SIN MUEBLES,750,Pichincha,3.0,3.0,254.0,2.0,Quito 170134,Calle C,Quito 170134,250-400,Medio
+Alquiler suite de lujo sector El Bosque,550,Pichincha,1.0,2.0,70.0,2.0,Quito,El Bosque,Quito,50-80,Medio
+Arriendo Departamento en Gonzlez Surez,500,Pichincha,3.0,3.0,131.0,1.0,Quito,Gonzalez Suarez,Quito,120-180,Medio
+Arriendo Oficina Amoblada,500,Pichincha,3.0,1.0,60.0,2.0,Quito,Quito,Quito,50-80,Medio
+Arriendo o vendo amplia casa en San Rafael,3000,Pichincha,7.0,7.0,770.0,3.0,Quito,Avenida General Enriquez & Isla San Cristobal,Quito,400+,Lujo
+RENTA DEPARTAMENTO PONCIANO ALTO,490,Pichincha,3.0,2.0,180.0,1.0,Desconocido,Desconocido,Desconocido,120-180,Medio
+Arriendo Suite Amoblada Estreno Carolina,600,Pichincha,1.0,1.0,57.0,1.0,Quito,Avenida Eloy Alfaro,Quito,50-80,Medio
+Arriendo Suite Amoblada Repblica del Salvador,500,Pichincha,1.0,1.0,65.0,1.0,La Carolina Quito Distrito Metropolitano De Quito Pichincha,La Carolina Quito Distrito Metropolitano De Quito Pichincha,La Carolina Quito Distrito Metropolitano De Quito Pichincha,50-80,Medio
+Amplio departamento de alquiler Urbanizacin El Condado,500,Pichincha,3.0,3.0,150.0,2.0,Quito 170134,Calle C,Quito 170134,120-180,Economico
+Departamento de arriendo Sector El Bosque,850,Pichincha,3.0,2.5,140.0,2.0,Quito,El Bosque,Quito,120-180,Lujo
+Departamento de alquiler sector La Carolina por estrenar,800,Pichincha,3.0,3.5,127.0,2.0,Quito,La Carolina,Quito,120-180,Lujo
+Casa de alquiler en Santa Lucia,550,Pichincha,4.0,3.5,160.0,1.0,Quito,Santa Lucia,Quito,120-180,Medio
+Cntrico departamento en arriendo Sector La Carolina,650,Pichincha,2.0,2.5,100.0,1.0,Quito,La Carolina,Quito,80-120,Medio
+Hermosa Casa de Lujo con piscina independiente de arriendo en Pusuqui,2500,Pichincha,4.0,5.0,700.0,5.0,Quito,Pusuqui,Quito,400+,Lujo
+SUITE DE ALQUILER AMOBLADA SECTOR MALL DEL SOL,800,Guayas,1.0,1.0,80.0,1.0,Guayaquil 090513,Av De Las Amricas,Guayaquil 090513,50-80,Medio
+SUITE DE ALQUILER TOTALMENTE AMOBLADA SECTOR MALL DEL SOL,800,Guayas,1.0,1.0,85.0,1.0,Guayaquil,Av De Las Amricas,Guayaquil,80-120,Lujo
+Lindo departamento semi amoblado de arriendo Sector Monteserrin,800,Pichincha,3.0,4.0,138.0,2.0,Quito,Monteserrin,Quito,120-180,Lujo
+De oportunidad Galpn de arriendo Sector Pusuqui,4500,Pichincha,3.0,2.0,1000.0,3.0,Quito,Pusuqui,Quito,400+,Lujo
+Amplia y hermosa oficina en alquiler sector Batn bajo,700,Pichincha,5.0,1.0,180.0,1.0,Quito,Batan Bajo,Quito,120-180,Medio
+De oportunidad terreno en arriendo Sector Ponceano,1500,Pichincha,3.0,2.0,100.0,1.0,Quito,Ponciano Alto,Quito,80-120,Lujo
+Amplio departamento amoblado en alquiler Sector Quito Tenis,1200,Pichincha,3.0,3.0,190.0,2.0,Quito,Quito Tenis,Quito,180-250,Lujo
+Almacn de 2 plantas en arriendo Sector Caldern,4900,Pichincha,3.0,2.0,700.0,1.0,Quito,Caldern,Quito,400+,Lujo
+Precioso Departamento en alquiler Sector El Batn,740,Pichincha,3.0,3.0,140.0,2.0,Quito,El Batn,Quito,120-180,Lujo
+Cntrico departamento en arriendo Sector Repblica del Salvador,780,Pichincha,3.0,2.5,183.0,2.0,Quito,Naciones Unidas Y Republica Del Salvador,Quito,180-250,Lujo
+Departamento de alquiler en Sector Quito Tenis,1700,Pichincha,3.0,3.1,271.0,2.0,Quito,Quito Tenis,Quito,250-400,Lujo
+Hermoso departamento de alquiler Sector El Condado,550,Pichincha,2.0,2.5,115.0,2.0,Quito,Calle C,Quito,80-120,Medio
